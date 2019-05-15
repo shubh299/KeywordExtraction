@@ -1,17 +1,22 @@
 import tkinter as tk
 from tkinter import *
-import main as mn
+import rake as rake
 from tkinter import filedialog as fd
 from pathlib import Path
 import sys		
 	
 def helloCallBack():
 	filename = fd.askopenfilename(title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
-	if filename!='':
-		keywords=mn.main(filename)
-		keywords_string=''
-		keywords_string='\n'
-		keywords_string=keywords_string.join(keywords)
+	if filename.split(".")[-1]=='txt':
+		if filename!='':
+			keywords=rake.rake(filename)
+			#keywords_string=''
+			keywords_string='\n'
+			keywords_string=keywords_string.join(keywords)
+			keywords_string+='\n*************************************************\n'
+			T.insert(END, keywords_string)
+	else:
+		keywords_string="Invalid File"
 		keywords_string+='\n*************************************************\n'
 		T.insert(END, keywords_string)
 
@@ -22,11 +27,6 @@ S.pack(side=RIGHT, fill=Y)
 T.pack(side=LEFT, fill=Y)
 S.config(command=T.yview)
 T.config(yscrollcommand=S.set)
-# Code to add widgets will go here...
 file_button=tk.Button(root, text ="Select File",width=10, command = helloCallBack)
 file_button.pack()
-
-#filename = fd.askopenfilename(title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
-#if filename!='':
-#	B = Tkinter.Button(bottom, text ="Get Keywords", command = helloCallBack)
 root.mainloop()

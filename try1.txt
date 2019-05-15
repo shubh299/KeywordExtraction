@@ -1,0 +1,1862 @@
+1011.txt
+['competitive interlayer connection', 'competitive learning', 'complex spatiotemporal sequence', 'context unit', 'fault tolerance', 'hebbian intralayer connection', 'hebbian learning', 'retrieval ability', 'robot trajectory', 'self-organizing context-based approach', 'sequence sampling effect', 'sequence state', 'shared state', 'storage ability', 'synaptic weight', 'trajectory tracking', 'unsupervised learning']
+['hebbian intralayer connection', 'multiple robot trajectory', 'complex spatiotemporal sequence', 'robot trajectory', 'particular item', 'synaptic weight', 'temporal feature', 'context unit', 'retrieval ability', 'hebbian learning', 'additional mechanism', 'input sequence', 'sequence sampling', 'learned sequence']
+0.5 0.4117647058823529 0.45161290322580644
+
+
+1017.txt
+['cerebellar based control', 'computational cerebellar model', 'light-weight robot', 'nervous system', 'robot control', 'scalable approach']
+['complex dynamic traditional method', 'computational cerebellar model', 'cerebellar model', 'joint influence', 'scalable approach', 'nervous system', 'robot dynamic', 'control decades', 'robot', 'system']
+0.3 0.5 0.37499999999999994
+
+
+1022.txt
+['bad pixel identification', 'ccd visible camera', 'eigenimages', 'focal plane array', 'identification algorithm', 'ir camera', 'multinormal distribution', 'principal component analysis', 'robustness', 'statistical distance', 'temporal evolution']
+['principal component analysis bad pixel', 'principal component analysis', 'focal plane array', 'bad pixel identification', 'principal component', 'identification algorithm', 'ccd visible', 'eigenimages responsible', 'ir camera', 'temporal evolution', 'multinormal distribution', 'statistical distance', 'parameter']
+0.6153846153846154 0.7272727272727273 0.6666666666666667
+
+
+1037.txt
+['feedback control', 'feedback stochastic control', 'ito stochastic differential equation', 'nonlinear system', 'random excitation', 'rayleigh approximation', 'steady state', 'stochastic averaging', 'transient response']
+['ito stochastic differential equation', 'stochastic averaging approach', 'feedback control gain', 'feedback stochastic control', 'response amplitude process', 'feedback control design', 'moment equation', 'transient response', 'random excitation', 'design criterion']
+0.4 0.4444444444444444 0.4210526315789474
+
+
+1039.txt
+['adaptive vibration absorber', 'bandwidth control', 'electrical transformer', 'structural vibration']
+['electrical transformer structural vibration', 'enlarged bandwidth control', 'adaptive vibration absorber', 'structural vibration', 'vibration absorber', 'control system', 'active device', 'experimental result']
+0.25 0.5 0.3333333333333333
+
+
+1041.txt
+['engine suspension', 'fractional differentiation', 'passive vibration control', 'robust controller', 'sprung mass', 'suspension', 'vibration isolation', 'viscoelastic behaviour']
+['passive vibration control', 'fractional derivative operator', 'vibration isolation', 'robust controller', 'sprung mass', 'viscoelastic behaviour']
+0.8333333333333334 0.625 0.7142857142857143
+
+
+1044.txt
+['analogue realization', 'continued fraction expansion', 'digital controller', 'fast process', 'fraction expansion', 'fractional differentiation', 'fractional integration', 'fractional-order controller', 'negative coefficient', 'negative impedance converter', 'rational approximation']
+['suitable rational approximation', 'negative impedance converter', 'negative coefficient', 'analogue circuit', 'fast process', 'analogue realization', 'digital controller', 'realization']
+0.625 0.45454545454545453 0.5263157894736842
+
+
+1047.txt
+['control', 'dynamic', 'exponential function', 'forced response', 'fractional-order differintegral', 'impulse response', 'initialization response', 'initialized fractional-order system', 'state space concept', 'transfer function', 'vector space representation']
+['frequency response behavior', 'vector space representation', 'vector representation', 'space concept', 'forced response', 'time response', 'impulse response', 'stability property', 'exponential function', 'transfer function', 'previous study', 'control method']
+0.4166666666666667 0.45454545454545453 0.43478260869565216
+
+
+1054.txt
+['affective primacy hypothesis', 'choice preference', 'decision scenario', 'deliberative mental operation', 'preconscious processing', 'risk attitude', 'risk-averse preference', 'risk-seeking preference', 'subconscious priming']
+['deliberative mental operation', 'affective primacy hypothesis', 'decision making', 'decision scenario', 'current model', 'preconscious processing', 'result support', 'priming event', 'choice preference']
+0.5555555555555556 0.5555555555555556 0.5555555555555556
+
+
+1060.txt
+['correctly classified mass spectrum', 'correlation coefficient', 'gaussian smoothing', 'mass spectrometric data', 'mass spectrum processing', 'matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry', 'multiplicative scatter correction', 'neural network analysis', 'normalisation procedure', 'pre-processing- method', 'variety identification', 'wheat variety classification']
+['multiplicative scatter correction', 'neural network analysis', 'classified mass spectrum', 'mass spectrometric data', 'wheat variety classification', 'variety identification', 'normalisation procedure', 'gaussian smoothing', 'principal issue', 'correlation coefficient']
+0.8 0.6666666666666666 0.7272727272727272
+
+
+1075.txt
+['ancilla fidelity', 'ancilla network', 'decoherence control', 'error correction method', 'fault-tolerant recovering method', 'information recovery', 'noisy error correction method', 'noisy quantum channel', 'noisy quantum computation process', 'numerical simulation', 'quantum computer', 'qubits']
+['noisy quantum computation process', 'noisy error correction method', 'noisy quantum channel', 'effective error correction', 'quantum computer decoherence', 'quantum computer', 'numerical simulation', 'ancilla network']
+0.75 0.5 0.6
+
+
+1079.txt
+['active finger', 'active robot hand', 'anthropomorphic grasping', 'embedded shape memory alloy actuator', 'fine manipulation', 'flexible rod', 'lifelike motion', 'resistance feedback']
+['embedded shape memory alloy actuator', 'shape memory alloy', 'active robot hand', 'active robot finger', 'wire actuator', 'sma actuator', 'active finger', 'fine manipulation', 'anthropomorphic grasping', 'control system', 'outer diameter', 'mechanical property']
+0.4166666666666667 0.625 0.5
+
+
+1083.txt
+['abstract differential algebraic equation', 'commutativity', 'differential algebraic system', 'inherent regular ode', 'low index linear system', 'numerical integration method', 'stepsize restriction']
+['partial differential algebraic equation', 'abstract differential algebraic equation', 'numerical integration method', 'inherent regular ode', 'strong stepsize restriction', 'abstract formulation', 'linear system', 'original system', 'hilbert space']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+1085.txt
+['adams method', 'constant steplength method', 'monomials', 'multistep code', 'perturbed linear problem integration', 'perturbed oscillator', 'taylor series', 'variable-stepsize variable-order multistep method']
+['constant steplength method', 'multistep method', 'adams method', 'taylor series', 'efficient integrator', 'perturbed oscillator', 'remarked code', 'multistep code', 'scheifele technique', 'steplength', 'perturbed']
+0.45454545454545453 0.625 0.5263157894736842
+
+
+109.txt
+['asymptotic entanglement measure', 'bipartite state', 'classical communication', 'dense coding capacity', 'entanglement measure', 'local quantum operation', 'optimization']
+['local quantum operation', 'asymptotic entanglement measure', 'classical communication', 'explicit form']
+0.75 0.42857142857142855 0.5454545454545454
+
+
+1092.txt
+['actively-controlled stretcher', 'ambulance', 'ambulance transportation', 'assistant driver seat', 'blood pressure variation', 'braking', 'comfortable transportation', 'conventional stretcher', 'factor analysis', 'head backward', 'head forward', 'motion sickness', 'nausea', 'negative foot-to-head acceleration', 'patient head', 'posture difference', 'rapid acceleration', 'rapid deceleration', 'ride quality evaluation', 'semantic differential method', 'stretcher angle', 'subjective evaluation', 'transported subject', 'vibration']
+['ambulance transportation generates negative', 'semantic differential method', 'blood pressure variation', 'ride quality evaluation', 'subjective evaluation', 'conventional transportation', 'bad transportation', 'motion sickness', 'factor analysis', 'transported subject', 'experimental result', 'head forward', 'head backward', 'acceleration result', 'rapid acceleration', 'negative', 'variation', 'investigation', 'subjects']
+0.5263157894736842 0.4166666666666667 0.46511627906976744
+
+
+11.txt
+['business network asset', 'cognitive social capital', 'degree of radicalness', 'information network asset', 'innovation', 'manufacturing firm', 'participation asset', 'reciprocal trust', 'relational asset', 'research network asset', 'structural social capital', 'two-stage decision-making process']
+['cognitive social capital', 'structural social capital', 'traditional explanatory variable', 'business network asset', 'relational asset', 'participation asset', 'empirical investigation', 'single indicator', 'manufacturing firm', 'reciprocal trust', 'decisionmaking stage', 'knowledge']
+0.5833333333333334 0.5833333333333334 0.5833333333333334
+
+
+1114.txt
+['algebraic modelling approach', 'distributed problem-solving', 'distributed task allocation', 'multi-agent system', 'resource assignment', 'social behavior', 'social dynamic', 'social intelligence', 'unified framework']
+['distributed task allocation', 'typical social behavior', 'social intelligence', 'social situation', 'conventional method', 'unified framework', 'resource assignment', 'conceptual architecture']
+0.5 0.4444444444444444 0.47058823529411764
+
+
+1132.txt
+['constraint product', 'global minimization', 'lp relaxation', 'multivariate polynomial', 'polynomial inequality', 'polynomial programming', 'real algebraic geometry', 'reformulation linearization technique', 'rlt procedure', 'semi-algebraic set', 'semidefinite programming relaxation']
+['real algebraic geometry', 'rlt procedure', 'global minimization', 'original constraint', 'polynomial programming', 'multivariate polynomial', 'polynomial inequality', 'polynomial', 'sdp', 'positive']
+0.6 0.5454545454545454 0.5714285714285713
+
+
+1142.txt
+['accurate dose delivery', 'accurate leaf verification', 'ccd-camera based electronic portal imaging device', 'dynamic multileaf collimation', 'electronic portal imaging device', 'electronic portal imaging device image', 'gantry angle', 'gap width', 'gray scale value profile', 'intensity modulated radiation therapy profile', 'ionization chamber', 'leaf pair', 'leaf position error', 'leaf positioning', 'modulated beam profile', 'noise level', 'signal image', 'sliding gap', 'two-dimensional method']
+['electronic portal imaging device', 'quality assurance procedure', 'daily leaf verification', 'low signal image', 'accurate leaf verification', 'accurate leaf positioning', 'leaf position error', 'leaf positioning', 'leaf pair', 'leaf gap', 'noise level', 'flat field', 'gantry angle', 'term reproducibility', 'gray scale', 'ionization chamber', 'narrow gap', 'gap width', 'beam profile', 'imrt profile']
+0.45 0.47368421052631576 0.46153846153846156
+
+
+1144.txt
+['activity distribution', 'activity pixel value', 'attenuation coefficient', 'attenuation correction factor', 'attenuation information', 'crosstalk', 'image reconstruction', 'iterative image reconstruction', 'log likelihood distribution', 'maximum likelihood estimator', 'one-dimensional newton-type algorithm', 'positron emission tomography attenuation correction', 'smoothing', 'statistical noise', 'thorax phantom']
+['positron emission tomography attenuation correction', 'attenuation correction factor', 'adequate attenuation correction', 'simultaneous iterative reconstruction', 'maximum likelihood estimator', 'log likelihood distribution', 'satisfactory activity distribution', 'iterative image reconstruction', 'quantitative image reconstruction', 'attenuation image', 'adequate solution', 'activity distribution', 'attenuation coefficient', 'image reconstruction', 'statistical noise', 'thorax phantom', 'activity pixel', 'regularization prevents', 'associated change', 'maximum']
+0.5 0.6666666666666666 0.5714285714285715
+
+
+1145.txt
+['3d simulation', '3d tissue distribution', 'adipose tissue compartment', 'breast tissue simulation', 'computationally compressed phantom', 'cumulative distribution', 'dense fibroglandular tissue region', 'fractal dimension', 'mammogram synthesis', 'mathematical morphology', 'retroareolar tissue region', 'synthetic image', 'synthetic mammogram texture', 'x-ray image acquisition']
+['dense fibroglandular tissue region', 'simulated adipose tissue compartment', 'synthetic texture feature histogram', 'adipose tissue region', 'mammographic imaging process', 'synthetic mammogram texture', 'simulated compartment', 'breast tissue', 'projected compartment', 'tissue distribution', 'texture energy', 'synthesis algorithm', 'mathematical morphology', 'fractal dimension', 'mammogram synthesis', 'cumulative distribution', 'clinical mammogram', 'feature']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+1147.txt
+['angular disparity', 'axial spatial resolution', 'clinical choice', 'computer simulation', 'emission tuned aperture computed tomography scintimammography', 'gamma camera', 'hemispherical breast', 'image quality', 'image set', 'in-plane spatial resolution', 'pinhole collimator', 'pinhole-to-detector distance', 'pinhole-to-tumor distance', 'ray tracing technique', 'small tumor', 'spherical tumor', 'tuned aperture computed tomography reconstruction method']
+['degraded axial spatial resolution', 'reasonable clinical choice', 'tact reconstruction method', 'ray tracing technique', 'etact scintimammography emission', 'spatial resolution', 'resolution consistent', 'image quality', 'mm pinhole', 'gamma camera', 'hemispherical breast', 'variable size', 'computer simulation', 'pinhole collimator', 'optimal approach', 'spherical tumor', 'tumor detectability', 'image set', 'image contrast']
+0.42105263157894735 0.47058823529411764 0.4444444444444444
+
+
+1172.txt
+['brittle material indentation', 'cutting test', 'diamond segment', 'fracture chipping', 'fracture theory', 'frame sawing', 'indenting-cutting test', 'kinematic behaviour', 'marble cutting', 'removal process', 'residual plastic deformation', 'single point cutting tool']
+['residual plastic deformation', 'dominant removal process', 'brittle material indentation', 'diamond grit increase', 'single diamond segment', 'plastic deformation', 'diamond grit', 'kinematic behaviour', 'fracture theory', 'fracture chipping', 'cutting force', 'stroke change']
+0.4166666666666667 0.4166666666666667 0.4166666666666667
+
+
+1176.txt
+['automatic diagnostic tool', 'current measurement', 'diagnostic technique', 'drilling', 'failure monitoring', 'fast fourier transform', 'force measurement', 'indirect monitoring method', 'monitoring method', 'signal analysis', 'statistical parameter', 'tool condition monitoring', 'tool wear', 'vibration measurement', 'wavelet transform']
+['process parameter variation', 'automatic diagnostic tool', 'signal analysis technique', 'diagnostic technique', 'statistical parameter', 'fast fourier', 'current measurement', 'tool wear', 'failure monitoring', 'wavelet transform', 'chosen approach', 'diverse approach', 'indirect measurement']
+0.5384615384615384 0.4666666666666667 0.5
+
+
+1184.txt
+['automation investment', 'key metric', 'return-on-investment', 'roi', 'technology purchase']
+['automation investment', 'business goal', 'key metric', 'roi', 'tool', 'manufacturers', 'company']
+0.42857142857142855 0.6 0.5
+
+
+1187.txt
+['cutting-edge manufacturer', 'ethernet', 'factory floor', 'supervisory level']
+['factory floor', 'widespread basis', 'ethernet network', 'ethernet', 'network']
+0.4 0.5 0.4444444444444445
+
+
+1193.txt
+['approximate factorization', 'approximate matrix factorization', 'linearly implicit runge-kutta-rosenbrock method', 'mathematical biology', 'nonlinear odes', 'numerical integration', 'numerical solution', 'operator splitting', 'pde system', 'runge-kutta method', 'spatial discretization', 'taxis-diffusion-reaction model']
+['purpose solver vodpk', 'approximate matrix factorization', 'nonlinear odes', 'linearly implicit', 'numerical solution', 'numerical integration', 'mathematical biology', 'spatial discretization', 'ode system', 'pde system', 'reference method']
+0.6363636363636364 0.5833333333333334 0.6086956521739131
+
+
+1195.txt
+['cauchy formula', 'crank-nicolson scheme', 'dirichlet boundary condition', 'discrete laplacian', 'neumann boundary condition', 'one-dimensional heat equation', 'sharp resolvent estimate', 'stability constant']
+['neumann boundary condition', 'sharp resolvent estimate', 'discrete laplacian', 'cauchy formula', 'bounded interval', 'result']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+1197.txt
+['error propagation mechanism', 'generalized benjamin-bona-mahony equation', 'numerical approximation', 'numerical behaviour', 'numerical method', 'stable solitary wave', 'unstable solitary wave']
+['error propagation mechanism', 'unstable solitary wave', 'solitary wave solution', 'conserved quantity', 'numerical method', 'numerical approximation', 'numerical behaviour']
+0.7142857142857143 0.7142857142857143 0.7142857142857143
+
+
+120.txt
+['congested phase', 'free phase', 'generalization', 'internet traffic', 'optimal information transfer', 'packet emission', 'packet release', 'parallel computer network', 'phase transition', 'scale-free property', 'self-organized critical traffic', 'square lattice architecture', 'statistical feature', 'traffic flow dynamic', 'transition point', 'wide fluctuation']
+['parallel computer network', 'square lattice architecture', 'critical traffic', 'congested phase', 'traffic congestion', 'wide fluctuation', 'packet release', 'local congestion', 'packet emission', 'statistical feature', 'traffic flow', 'internet traffic', 'phase transition']
+0.6923076923076923 0.5625 0.6206896551724138
+
+
+1200.txt
+['artificial dissipation', 'central differencing', 'conservation law', 'continuous recovery', 'discrete filter operation', 'discrete filtering', 'finite volume scheme', 'highly nonlinear artificial dissipation term', 'image processing', 'numerical approximation', 'numerical dissipation']
+['conservation law modern numerical approximation', 'nonlinear artificial dissipation term', 'discrete filter operation', 'finite volume scheme', 'conservation law', 'numerical dissipation', 'continuous recovery', 'alternative approach']
+0.625 0.45454545454545453 0.5263157894736842
+
+
+1205.txt
+['binary analysis', 'commodity web browser', 'complex scientific program', 'data layout', 'deep memory hierarchy', 'hpcview', 'instruction-level parallelism', 'node performance', 'optimizing compiler', 'peak performance', 'performance analysis', 'software tool', 'source code', 'top-down analysis']
+['deep memory hierarchy', 'commodity web browser', 'complex scientific program', 'code development team', 'program profile data', 'source code', 'data layout', 'application designer', 'multiple set', 'peak performance', 'node performance', 'doe laboratory', 'existing tool', 'tuning tool', 'performance tool', 'performance analysis']
+0.5 0.5714285714285714 0.5333333333333333
+
+
+1218.txt
+['accounting', 'artificial intelligence', 'expert system', 'finance', 'knowledge acquisition', 'problem domain taxonomy', 'rule extraction process']
+['expert system development process', 'rule extraction process', 'prominent ka technique', 'major bottleneck', 'artificial intelligence', 'empirical study', 'knowledge engineer', 'generic taxonomy', 'finance task', 'domain taxonomy', 'knowledge acquisition', 'knowledge', 'acquisition', 'generic']
+0.21428571428571427 0.42857142857142855 0.2857142857142857
+
+
+1222.txt
+['data mining', 'dense database', 'experimental result', 'minimum rule set', 'optimal class association rule set mining', 'predictive association rule', 'predictive power', 'redundant computation', 'relational database', 'upward closure property', 'weak rule pruning']
+['predictive association rule', 'upward closure property', 'minimum rule', 'predictive power', 'experimental result', 'mining process', 'dense database', 'redundant computation']
+0.75 0.5454545454545454 0.631578947368421
+
+
+1225.txt
+['btexact', 'public access wlans', 'virtual private network', 'voice over dsl']
+['chief technology officer', 'virtual private network', 'public access wlans', 'ip btexact']
+0.5 0.5 0.5
+
+
+1236.txt
+['compiler', 'high-performance fortran', 'hpf', 'parallel performance', 'parallel programming', 'portable program', 'source compatability']
+['computational science community', 'computer science community', 'original source code', 'scientific application user', 'interface block', 'parallel machine', 'vender implementation', 'parallel programming', 'portable program', 'parallel computing', 'parallel performance', 'performance evaluation', 'complete compatibility', 'compatibility comparison', 'user']
+0.2 0.42857142857142855 0.27272727272727276
+
+
+1253.txt
+['data dictionary', 'network output interpretation', 'network structure', 'neural network exchange', 'neural network markup language', 'preprocessing method', 'xml']
+['trained neural network model', 'neural network markup language', 'neural network model description', 'neural network model', 'neural network exchange', 'network output interpretation', 'neural model', 'network structure', 'data dictionary']
+0.5555555555555556 0.7142857142857143 0.6250000000000001
+
+
+1255.txt
+['extensible markup language', 'grafting process', 'sgml', 'standard generalized markup language', 'standardization', 'type i succession', 'xml']
+['standard generalized markup language', 'extensible markup language', 'technical paradigm compliance', 'stable standard', 'standard trajectory', 'technical exemplar', 'user market', 'grafting effort', 'grafting process', 'compatibility consideration', 'entails compatibility', 'xml developer', 'language', 'sgml succession', 'widespread', 'hypertext']
+0.1875 0.42857142857142855 0.26086956521739124
+
+
+1259.txt
+['approximate solution', 'common sense knowledge', 'consequence atom', 'incomplete knowledge', 'inference method', 'problem solving', 'reasoning', 'reliability', 'representative solution', 'rule similarity', 'sld procedure', 'subgoal atom', 'word knowledge base']
+['sld procedure', 'knowledge base', 'representative solution', 'derived solution', 'inference method', 'consequence atom', 'incomplete knowledge', 'rule similarity', 'method', 'similarity', 'incomplete']
+0.5454545454545454 0.46153846153846156 0.4999999999999999
+
+
+1267.txt
+['3d reconstruction', 'covariance matrix', 'epipolar equation', 'flow fundamental matrix', 'motion parameter', 'normalization', 'real-image experiment', 'reliability evaluation', 'uncalibrated-camera optical flow']
+['unknown focal length', 'flow fundamental matrix', 'focal length', 'covariance matrix', 'computed shape', 'observed flow', 'motion parameter', 'epipolar equation', 'reliability evaluation', 'flow', 'reliability']
+0.45454545454545453 0.5555555555555556 0.5
+
+
+1268.txt
+['concurrent system', 'context dependent action', 'contextual net reachability', 'finite prefix', 'goal marking', 'linear programming', 'petri net']
+['context dependent action', 'finite complete prefix', 'finite prefix', 'linear programming', 'petri net', 'read arc', 'concurrent system', 'prefix', 'reachable']
+0.5555555555555556 0.7142857142857143 0.6250000000000001
+
+
+127.txt
+['asymmetric connection', 'asymptotical stability', 'connection weight matrix', 'discrete-time neural network', 'equilibrium stability', 'fixed point', 'generalized sufficient condition', 'interval matrix', 'lyapunov function method', 'stability', 'symmetric connection', 'unique attractor']
+['lyapunov function method', 'generalized sufficient condition', 'extended result', 'unique attractor', 'interval matrix', 'asymmetric connection', 'asymptotical stability', 'condition', 'connection']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+1270.txt
+['classification accuracy', 'decision algorithm', 'meteorological volumetric radar data', 'object oriented reducts', 'radar decision support system', 'rough set algorithm', 'summer storm', 'support vector machine', 'volumetric storm cell classification']
+['volumetric storm cell classification decision', 'volumetric storm cell classification', 'radar decision support system', 'meteorological volumetric radar data', 'volumetric storm data perform', 'classification accuracy coefficient', 'concern summer storm', 'support vector machine', 'rough set algorithm', 'decision algorithm', 'rule generation', 'chosen method']
+0.5 0.6666666666666666 0.5714285714285715
+
+
+1276.txt
+['binary reflexive relation', 'classical indiscernibility relation', 'elementary granule', 'generalized rough approximation', 'generalized rough approximation mapping']
+['classical indiscernibility relation', 'binary reflexive relation', 'rough approximation mapping', 'border region', 'elementary granule', 'comparative study']
+0.5 0.6 0.5454545454545454
+
+
+1278.txt
+['abstract state space', 'bisimilarity', 'branching time temporal logic', 'observational simulation relation', 'partitioning technique', 'timed automaton verification', 'universal fragment']
+['standard partitioning technique', 'time temporal logic', 'observational simulation relation', 'theoretical result', 'universal fragment', 'timed automata', 'bisimilarity', 'delay']
+0.375 0.42857142857142855 0.39999999999999997
+
+
+1280.txt
+['decidability', 'finite binary tree', 'gentzen style calculus', 'hilbert style axiomatization', 'logical semantics', 'metamathernatical property', 'polymorphic subtypes', 'product subtypes', 'pushdown store']
+['complete hilbert style axiomatization', 'gentzen style calculus', 'basic metamathematical property', 'finite binary tree', 'key role', 'logical semantics', 'pushdown store', 'natural deduction', 'subject reduction', 'cut elimination', 'comprehensive study', 'logical system', 'subtyping', 'judgement']
+0.2857142857142857 0.4444444444444444 0.34782608695652173
+
+
+1281.txt
+['concurrent system', 'noninterference notion', 'real-time system', 'security property', 'time-critical system', 'timed automaton']
+['concurrent system', 'security property', 'timed automaton', 'security', 'automaton', 'airplane', 'language']
+0.42857142857142855 0.5 0.4615384615384615
+
+
+1285.txt
+['closure operator', 'complexity', 'data mining', 'equivalence class', 'exact set', 'fractal dimension', 'infinite information system', 'information system', 'knowledge discovery', 'qualitative measure', 'rough set', 'topological property']
+['huge experimental data call', 'sound theoretical generalization', 'rough set theory', 'data mining', 'data table', 'theoretical study', 'upper approximation', 'knowledge discovery', 'indiscernibility relation', 'mass collaboration', 'fixed integer', 'topological property', 'equivalence class', 'theoretical setting', 'topological operator', 'qualitative measure', 'basic notion', 'closure operator', 'concept complexity', 'rough', 'measure', 'advance']
+0.2727272727272727 0.5 0.3529411764705882
+
+
+1290.txt
+['client server hardware', 'human resource', 'information flow', 'lean manufacturing process', 'legacy software', 'management information system', 'network infrastructure', 'scalable information system']
+['mis integration process', 'lean manufacturing process', 'server hardware', 'human resource', 'code customizations', 'network infrastructure', 'legacy software', 'legacy system']
+0.5 0.5 0.5
+
+
+1293.txt
+['load-bearing truss structure', 'modified genetic algorithm', 'near-optimal topology', 'stochastic search procedure', 'triangle', 'truss topology optimization']
+['stochastic search procedure', 'modified genetic algorithm', 'truss topology optimization', 'genetic algorithm', 'truss structure', 'generated structure', 'addition', 'effectiveness', 'numerical']
+0.3333333333333333 0.5 0.4
+
+
+1295.txt
+['accuracy', 'constraint allowable limit', 'constraint redundancy', 'cycle time', 'design variable impact', 'function smoothness', 'graph morphing', 'large-scale multidisciplinary design optimization', 'method validation', 'optimal design problem', 'reliability', 'visual design steering']
+['multidisciplinary design optimization', 'constraint allowable limit', 'design variable impact', 'visual design steering', 'constraint redundancy', 'function smoothness', 'method validation', 'cycle time', 'morphing', 'development', 'designer']
+0.6363636363636364 0.5833333333333334 0.6086956521739131
+
+
+1296.txt
+['2d visualization', '3d visualization', 'complex system', 'complexity', 'computational steering', 'computational time', 'constraint redundancy', 'constraint tolerance', 'design variable change', 'designer decision making', 'graph morphing visualization method', 'large-scale multidisciplinary design optimization', 'n-dimensional optimization', 'objective function contour smoothness', 'optimal design problem', 'visual design steering', 'visual representation']
+['traditional black box solver', 'graph morphing visualization method', 'design variable change', 'optimal design space', 'objective function contour', 'visual design steering', 'multidisciplinary design optimization', 'graph morphing', 'method development', 'computational steering', 'visual environment', 'visual representation', 'solution process', 'optimal solution', 'human experience', 'complex system', 'prescribed input', 'constraint tolerance', 'constraint redundancy', 'designer insight', 'designer knowledge']
+0.38095238095238093 0.47058823529411764 0.42105263157894735
+
+
+1297.txt
+['acoustic emission minimization', 'acoustic response', 'closed cylinder', 'forced vibration', 'gradient-based method', 'numerical optimization', 'simulated annealing', 'stochastic optimization', 'structure']
+['stochastic optimization', 'acoustic emission', 'experimental comparison', 'experimental data', 'simulated annealing', 'forced vibration', 'closed cylinder', 'acoustic response']
+0.625 0.5555555555555556 0.5882352941176471
+
+
+1299.txt
+['budget', 'computer support', 'content management', 'customer relationship management', 'it spending', 'publishing', 'web delivery']
+['customer relationship management', 'content management', 'publishing segment', 'budget allocation', 'computer support', 'web delivery', 'technology funding', 'technology growth', 'business activity', 'activity']
+0.4 0.5714285714285714 0.47058823529411764
+
+
+1304.txt
+['activation function', 'center-crossing recurrent neural network', 'evolutionary algorithm', 'evolutionary search', 'high-fitness oscillatory circuit', 'learning', 'low mutation variance', 'null surface', 'random initial population', 'random network', 'rhythmic behavior evolution', 'symmetry']
+['low mutation variance', 'simple walking task', 'random initial population', 'random network', 'initial population', 'activation function', 'oscillatory circuit', 'net input', 'evolutionary search', 'exact center', 'rhythmic behavior', 'neuron intersect']
+0.4166666666666667 0.4166666666666667 0.4166666666666667
+
+
+131.txt
+['biorthogonal nonuniform filter bank', 'biorthogonal pair', 'dyadic filter bank', 'dyadic tree', 'fir preserving', 'rational transfer function', 'stability preserving', 'tree structured filter bank']
+['matching constituent level', 'rational transfer function', 'orthonormal filter bank', 'biorthogonal pair', 'dyadic tree', 'synthesis bank', 'fir preserving', 'strong statement', 'tree structure']
+0.4444444444444444 0.5 0.47058823529411764
+
+
+1311.txt
+['blended implementation', 'block implicit method', 'diagonal splitting', 'nonlinear splittings', 'numerical method', 'numerical test', 'odes', 'parallel computer']
+['suitable component method', 'numerical method', 'basic idea', 'numerical test', 'nonlinear splittings', 'parallel computer', 'diagonal splitting', 'numerical analysis', 'nova science', 'efficient implementation', 'method']
+0.45454545454545453 0.625 0.5263157894736842
+
+
+1320.txt
+['countermeasure', 'false routing information', 'integrated communication infrastructure', 'internet routing infrastructure security', 'link state protocol', 'network performance', 'networked system', 'networking infrastructure', 'networking technology', 'preventive security mechanism', 'research', 'routing infrastructure', 'routing protocol', 'secure routing scheme']
+['single integrated communication infrastructure', 'mass communication medium', 'internet routing infrastructure', 'routing infrastructure', 'networking infrastructure', 'routing protocol', 'routing operation', 'networking technology', 'thorough review', 'unprecedented growth', 'visible target', 'major concern', 'wide range', 'networked system', 'near future', 'network performance', 'future', 'network', 'period', 'approach', 'increase']
+0.2857142857142857 0.42857142857142855 0.34285714285714286
+
+
+1328.txt
+['publishing market', 'tablet pc']
+['tablet pcs', 'publishing market']
+0.5 0.5 0.5
+
+
+133.txt
+['banach space', 'feedback system', "hadamard 's condition", 'l/sub p/ stability', 'linear system', 'lipschitz continuous inverse', 'nonlinear system']
+['weak additional assumption', 'lipschitz continuous inverse', 'related linear system', 'related familiar family', 'nonlinear system', 'feedback system', 'banach space', 'fundamental limitation', 'application']
+0.4444444444444444 0.5714285714285714 0.5
+
+
+1335.txt
+['adjacent vertex', 'finite graph', 'finite sequence', 'graph representation', 'solid ball']
+['blue solid ball', 'finite sequence', 'consecutive ball', 'adjacent vertex', 'finite graph', 'blue', 'red', 'pair']
+0.375 0.6 0.4615384615384615
+
+
+1336.txt
+['abelian branched covering', 'enumeration formula', 'explicit formula', 'finite abelian group', 'pseudofree spherical', 'weak equivalence class']
+['enumeration formula', 'explicit formula', 'pseudofree spherical', 'distinct prime']
+0.75 0.5 0.6
+
+
+1341.txt
+['application layer', 'detection mechanism', 'dynamic application', 'firewall', 'ip telephony', 'network address translation device', 'network design', 'network infrastructure', 'network-based vulnerability', 'response mechanism', 'secure telephony enabled middlebox', 'sip protocol', 'static device', 'stem', 'stem architecture']
+['secure telephony enabled middlebox dynamic application', 'secure telephony enabled middlebox', 'network address translation device', 'ip telephony', 'application layer', 'static device', 'network infrastructure', 'network design', 'sip protocol', 'response mechanism', 'proper functionality', 'key component']
+0.75 0.6 0.6666666666666665
+
+
+1344.txt
+['archival document restoration', 'canny edge detector', 'handwritten archival document', 'ink seepage', 'iterative stroke enhancement', 'wavelet reconstruction process', 'wavelet technique']
+['improved canny edge detector', 'wavelet reconstruction process', 'foreground text extraction', 'handwritten archival document', 'wavelet technique', 'average precision', 'discriminating capability', 'corresponding stroke', 'foreground stroke']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+1349.txt
+['finite-dimensional differentiable manifold', 'learned manifold', 'manifold learning', 'sampling density', 'simplicial complex', 'simplicial reconstruction', 'true manifold']
+['efficient simplicial reconstruction', 'simplicial complex', 'tangent bundle', 'sampling density', 'learned manifold', 'true manifold', 'differentiable manifold', 'manifold learning', 'knowledge', 'geometry']
+0.5 0.7142857142857143 0.588235294117647
+
+
+1361.txt
+['adaptive scheduling', 'aircraft industry', 'batch server', 'batch servicing', 'control strategy', 'dynamic scheduling', 'flow shop', 'integral scheduling approach', 'look-ahead strategy', 'manufacturing operation', 'multi-stage flow shop', 'near-future arrival', 'oven', 'parallel machine', 'production system', 'semiconductor manufacturing', 'shop optimization', 'simulation study', 'single machine', 'two-stage flow shop']
+['flow shop batch servicing', 'extensive simulation study', 'integral scheduling approach', 'batch server', 'batch processing', 'shop optimization', 'adaptive scheduling', 'dynamic scheduling', 'parallel machine', 'single machine', 'aircraft industry', 'semiconductor manufacturing', 'shop performance', 'single stage', 'control strategy']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+1362.txt
+['cam methodology', 'cam programming re-engineering', 'ceramic bearing', 'complex surface geometry', 'cutting strategy', 'error-free program', 'forging dy', 'hardened steel', 'high-speed milling', 'injection mould', 'mould', 'nc program', 'optimum cutting strategy', 'process engineering redefinition', 'process planning', 'process simulation tool', 'productivity', 'reliable high-speed machining', 'surface quality', 'tool breakage', 'tool workpiece collision']
+['complex surface geometry', 'reliable manufacturing process', 'process simulation tool', 'surface quality', 'process engineering', 'process planning', 'preliminary stage', 'entail mark', 'ceramic bearing', 'optimization step', 'cam programming', 'cam software', 'firm adopting', 'cam programmer', 'tool breakage', 'speed milling', 'hardened steel', 'electrodischarge machining', 'machining time', 'die industry', 'cam methodology', 'final result', 'injection mould', 'program', 'explanation', 'fixture', 'damage']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+1364.txt
+['adaptive sphere-fitting method', 'compliance', 'computational effort', 'design constraint', 'machine tool', 'real-time measurement information', 'sequential tolerance control', 'skewed distribution', 'yield improvement']
+['conventional tolerance control', 'probabilistic search method', 'computational effort', 'process plan', 'process distribution', 'inferior solution', 'chronological sequence', 'skewed distribution', 'machine tool', 'permissible variation', 'design constraint', 'distinct subset', 'design specification']
+0.3076923076923077 0.4444444444444444 0.3636363636363637
+
+
+1366.txt
+['control chart pattern recognition', 'correct recognition accuracy', 'fuzzy relaxation technique', 'fuzzy-soft learning vector quantization', 'learning time', 'manufacturing process', 'numerical result', 'simultaneous neuron update', 'spc', 'statistical process control', 'supervised competitive learning network approach', 'supervised lvq', 'unnatural pattern']
+['supervised competitive learning network approach', 'competitive learning network', 'correct recognition accuracy', 'fuzzy relaxation technique', 'chart pattern recognition', 'statistical process control', 'learning vector quantization', 'learning time', 'supervised lvq', 'pattern recognizers']
+0.6 0.46153846153846156 0.5217391304347826
+
+
+1368.txt
+['competitive advantage', 'foreign direct investment', 'just-in-time', 'labour productivity', 'macro-economic data', 'manufacturing cell', 'manufacturing technology innovation', 'soft technology', 'total quality manufacturing', 'uk', 'usa']
+['foreign direct investment', 'total quality manufacturing', 'advanced manufacturing technology', 'uk manufacturing technology', 'manufacturing cell', 'manufacturing organization', 'technology innovation', 'soft technology', 'future investigation', 'uk firm', 'japanese practice', 'notable difference', 'labour productivity', 'computerized integration', 'remarkable similarity']
+0.3333333333333333 0.45454545454545453 0.3846153846153846
+
+
+1371.txt
+['design methodology', 'diagnostic strategy', 'industrial system', 'local diagnostic algorithm', 'modularity']
+['multiple simultaneous failure', 'complex industrial application', 'local diagnostic algorithm', 'industrial system', 'diagnostic strategy', 'diagnostic system', 'design methodology', 'design cycle']
+0.5 0.8 0.6153846153846154
+
+
+1374.txt
+['auditory warning', 'computer hardware', 'computer software', 'internet', 'product information', 'warning presentation']
+['future prospect', 'current product', 'computer software', 'detection device', 'warning presentation', 'auditory warning', 'visual', 'application']
+0.375 0.5 0.42857142857142855
+
+
+1375.txt
+['digital maintenance manual usability', 'generic task model', 'information retrieval', 'navigational aid', 'task analysis', 'usability trial', 'user interaction']
+['generic task model', 'previous digital manual', 'design heuristic', 'navigation aid', 'primary objective', 'main outcome', 'retrieval task', 'design process', 'paper manual', 'usability trial', 'user interaction', 'paper', 'users', 'typical']
+0.21428571428571427 0.42857142857142855 0.2857142857142857
+
+
+139.txt
+['buffered ph solution', 'drug delivery', 'equilibrium model', 'filtration/separation', 'gel size', 'ionic hydrogel', 'mechanical property', 'microfluidic flow', 'muscle-like actuator', 'ph-responsive hydrogel', 'swelling/deswelling']
+['buffered ph solution', 'biological tissue', 'microfluidic flow', 'ph solution', 'mechanical property', 'gel size', 'drug delivery', 'experimental result', 'widespread application', 'kinetic model', 'ionic hydrogel', 'hydrogel property', 'equilibrium model', 'application']
+0.5 0.6363636363636364 0.56
+
+
+1393.txt
+['administration', 'best practice', 'canadian government organization', 'enterprise resource planning', 'erp system implementation', 'higher legislative accountability', 'innovation process theory framework', 'integrated real-time information', 'public accountability', 'result-based management', 'social obligation']
+['innovation process theory framework', 'canadian government organization erp', 'enterprise resource planning', 'erp adoption process', 'erp system implementation', 'organizational innovation', 'erp system', 'system implementation', 'social obligation', 'typical activity', 'key consideration', 'specific challenge', 'unique culture', 'public accountability', 'complex exercise', 'distinct set']
+0.3125 0.45454545454545453 0.3703703703703703
+
+
+1394.txt
+['academic library', 'globalization', 'government document', 'intellectual bundling', 'municipal legislation', 'national legislation', 'north american free trade agreement', 'provincial legislation', 'state legislation', 'supranational organization', 'transnational economic agreement', 'world trade organization']
+['north american free trade agreement', 'transnational economic agreement', 'private sector company', 'trade organization', 'nongovernmental organization', 'municipal legislation', 'obligatory change', 'party actor', 'academic library', 'supranational body', 'intellectual bundling', 'supranational ruling', 'government document', 'relationship']
+0.42857142857142855 0.5 0.4615384615384615
+
+
+1396.txt
+['agile manufacturing', 'double sampling s-control chart', 'double sampling x-control chart', 'genetic algorithm', 'process mean shift detection', 'process standard deviation', 'statistical process control']
+['agile manufacturing double sampling', 'agile manufacturing environment', 'statistical process control', 'agile manufacturing', 'complementary ds chart', 'process variation', 'process mean', 'genetic algorithm', 'preferable alternative', 'quick response']
+0.3 0.42857142857142855 0.3529411764705882
+
+
+1409.txt
+['atm', 'customer service', 'dedicated internet access', 'ethernet service', 'frame relay', 'north american carrier survey', 'price', 'private line', 'reliability', 'service provider', 'vpns', 'web hosting']
+['rate carrier', 'frame relay', 'web hosting', 'network engineer', 'internet access', 'ethernet service', 'customer service', 'dozen provider', 'unacceptable', 'scale', 'excellent', 'price', 'readers', 'difference']
+0.35714285714285715 0.4166666666666667 0.3846153846153846
+
+
+1411.txt
+['content delivery networks', 'delivery quality', 'internet experience', 'outsourced service model', 'scalability', 'security', 'web interaction', 'web-based business model', 'web-site operator', 'world wide web']
+['outsourced service model', 'business model afloat', 'content delivery networks', 'delivery quality', 'traffic jam', 'santa clara', 'speedera networks', 'vice president', 'gordon smith', 'wide wait', 'internet experience', 'web interaction', 'mission', 'client', 'visitor', 'security']
+0.375 0.6 0.4615384615384615
+
+
+1417.txt
+['announcement', 'community portal', 'craigslist', 'internet business', 'local event', 'real estate', 'revenue generation', 'san francisco bay community', 'virtual community', 'want ad', 'web content']
+['web site', 'real estate', 'human touch', 'revenue generation', 'local event', 'san franciscans', 'internet business', 'virtual community', 'community portal', 'web content', 'local user', 'web ad', 'community']
+0.5384615384615384 0.6363636363636364 0.5833333333333334
+
+
+1419.txt
+['content provider', 'handheld wireless terminal', 'mpeg-4', 'multimedia content streaming', 'packetvideo', 'semiconductor vendor', 'wireless device', 'wireless device manufacturer']
+['motion pictures expert', 'handheld wireless terminal', 'wireless device manufacturer', 'wireless market', 'potential customer', 'semiconductor vendor', 'multimedia content', 'content provider', 'financial support']
+0.4444444444444444 0.5 0.47058823529411764
+
+
+1422.txt
+['content management', 'corporate portal', 'effective knowledge discovery', 'enterprise customer', 'internal information', 'taxonomy application', 'taxonomy software']
+['effective knowledge discovery', 'successful content retrieval', 'manual assistance', 'automated system', 'related application', 'corporate portal', 'taxonomy software', 'taxonomy product', 'content']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+1425.txt
+['centralized server', 'electronic file', 'enduser machine', 'kontiki', 'p2p-like bandwidth harvesting technology', 'redundant file request', 'underutilized bandwidth']
+['cdn company kontiki', 'redundant file', 'underutilized bandwidth', 'electronic file', 'enduser machine', 'centralized server', 'bandwidth harvesting', 'physical distance']
+0.5 0.5714285714285714 0.5333333333333333
+
+
+143.txt
+['automated irradiation device', 'cv-28', 'cyclone 30', 'cyclotron', 'general research', 'nuclear medicine', 'proton', 'radiation exposition dose', 'radioisotope production']
+['automated irradiation device', 'radiation exposition dose', 'beam current', 'nuclear medicine', 'radioisotope production', 'model cyclone', 'particle']
+0.5714285714285714 0.4444444444444444 0.5
+
+
+1432.txt
+['law society library', 'moys classification scheme']
+['local law society library', 'moys classification scheme', 'classification issue', 'current stock', 'scheme', 'question', 'specialisation', 'material']
+0.125 0.5 0.2
+
+
+1457.txt
+['absorbing boundary condition', 'computational cost', 'discontinuous galerkin finite element method', 'discretization error', 'implicit method', 'time-stepping scheme', 'transient analysis', 'transient wave propagation', 'unbounded domain', 'unconditional stability']
+['discontinuous galerkin finite element method', 'transient wave propagation', 'implicit method', 'unbounded domain', 'transient analysis', 'discretization error', 'computational cost', 'magnitude low']
+0.875 0.7 0.7777777777777777
+
+
+1462.txt
+['compressible fluid', 'consistent thermodynamic formulation', 'dissipative darcy flow', 'effective stress response', 'entropy inequality', 'fluid compressibility', 'fluid pressure', 'fluid pressure response', 'kinematically linear theory', 'kinematically nonlinear theory', 'large elastic deformation', 'large plastic deformation', 'nearly saturated porous medium', 'nonlinear analysis', 'predictive capability', 'robust numerical scheme', 'solid skeleton', 'two-phase mixture problem', 'volumetric logarithmic strain']
+['volumetric logarithmic strain', 'dissipative darcy flow', 'effective stress response', 'robust numerical scheme', 'consistent thermodynamic formulation', 'fluid pressure response', 'solid skeleton', 'compressible fluid', 'predictive capability', 'plastic deformation', 'numerical formulation', 'linear theory', 'fluid compressibility', 'numerical', 'fluid']
+0.6666666666666666 0.5263157894736842 0.5882352941176471
+
+
+1497.txt
+['artificial intelligence', 'document access', 'formalized knowledge', 'internet', 'natural language', 'semantic web', 'web page']
+['semantic web accessing document', 'semantic web', 'natural language', 'current web', 'formalized knowledge', 'human intelligence', 'document']
+0.42857142857142855 0.42857142857142855 0.42857142857142855
+
+
+1498.txt
+['artificial intelligence', 'computational intelligence', 'creativity', 'elaboration tolerance', 'father of ai', 'free will', 'john mccarthy', 'lisp', 'list processing', 'situation calculus']
+['author considers mccarthy', 'list processing', 'computational intelligence', 'elaboration tolerance', 'situation calculus', 'artificial intelligence', 'inventor']
+0.7142857142857143 0.5 0.588235294117647
+
+
+1500.txt
+['daml+oil', 'darpa agent markup language', 'ontology web language', 'semantic web', 'syntax', 'wine knowledge base']
+['darpa agent markup language', 'us government fund daml', 'current markup language', 'wine knowledge base', 'us defense advanced', 'semantic web activity', 'ontology web language', 'semantic web development', 'web content', 'european business', 'staggering rate', 'international consortium', 'wide web', 'accurate access', 'projects agency', 'proposed starting', 'us', 'development', 'ontology', 'deployment']
+0.15 0.5 0.23076923076923075
+
+
+1504.txt
+['artificial agent', 'distributed cognition', 'electronic medical record system', 'human agent', 'human factor', 'human-centered computing system', 'human-centered distributed information system design', 'human-centered intelligent flight surgeon console', 'human-computer interaction', 'interface design', 'multiple analysis level', 'nasa johnson space center']
+['nasa johnson space center', 'electronic medical record', 'technology principle', 'indispensable factor', 'human agent', 'human factor', 'dynamic interaction', 'artificial agent', 'interface design', 'distributed system', 'system design', 'computer system', 'human']
+0.38461538461538464 0.4166666666666667 0.4
+
+
+1508.txt
+['biological sensor', 'guided rat', 'mobile robot', 'robot-assisted search and rescue']
+['medial force brain implant underwent operant conditioning', 'trade center disaster', 'john blitch', 'guided behavior', 'medium inquiry', 'biological sensor', 'humanitarian award', 'backpackable robot', 'mobile robot', 'guided rat', 'aspect', 'article', 'rats', 'comment']
+0.21428571428571427 0.75 0.3333333333333333
+
+
+151.txt
+['action', 'computation tree logic', 'formal semantics', 'kronos model checker', 'logic atctl', 'model checking model', 'real time logic', 'specification language', 'unified modelling language']
+['unified modelling language', 'kronos model checker', 'model checking model', 'specification language', 'lightweight version', 'formal semantics', 'de nicola', 'concurrent action', 'logic atctl', 'vaandrager']
+0.6 0.6666666666666666 0.631578947368421
+
+
+1510.txt
+['adjoint diffusion equation', 'boundary value problem', 'closely-spaced diffusion trajectory', 'concentration derivative', 'convective velocity', 'dependent testing method', 'diffusion trajectory', 'direct differentiation', 'directional derivative', 'domain boundary', 'euler scheme', 'gradient estimation', 'initial coordinate', 'integral', 'isotropic diffusion', 'monte carlo method', 'parallel modelling', 'random walk by sphere and ball algorithm', 'space derivative', 'statistically equivalent transition', 'weight', 'weighted trajectory concentration']
+['dependent testing method', 'monte carlo method', 'adjoint diffusion equation', 'diffusion equation', 'isotropic diffusion', 'parallel modelling', 'weighted concentration', 'space derivative', 'concentration derivative', 'direct differentiation', 'single trajectory', 'domain boundary', 'suitable weight', 'additional condition', 'equivalent transition', 'initial coordinate', 'weight algorithm', 'method']
+0.5555555555555556 0.45454545454545453 0.5
+
+
+1511.txt
+['convergence rate', 'efficient algorithm', 'finite element approximation', 'higher derivative', 'iteration algorithm', 'large parameter', 'stiff elliptic boundary value problem']
+['finite element approximation', 'stiff elliptic boundary', 'convergence rate', 'efficient algorithm', 'iteration algorithm']
+0.8 0.5714285714285714 0.6666666666666666
+
+
+1521.txt
+['approximate method', 'bezier curve', 'endpoint continuity constraint', 'endpoint interpolation', 'explicit approximate error analysis', 'explicit solution', 'least square approximation', 'optimal multi-degree reduction', 'uniform approximation']
+['explicit approximate error analysis', 'explicit solution', 'uniform approximation', 'square approximation', 'stepwise computing', 'endpoint interpolation', 'approximate method', 'paper performs', 'reduction method', 'degree reduction', 'time']
+0.45454545454545453 0.5555555555555556 0.5
+
+
+1528.txt
+['cooperative intrusion detection', 'distributed intrusion detection system', 'expert system', 'ids', 'intrusion', 'intrusion detection system', 'warning threshold']
+['distributed intrusion detection system', 'intrusion detection system', 'ids model exploit', 'distributed packet', 'expert system', 'distributed idss', 'devs simulation', 'packet delivery', 'interaction message', 'interaction threshold', 'knowledge base', 'valid blacklist', 'share advanced', 'network system', 'model component', 'stealthy attack']
+0.1875 0.42857142857142855 0.26086956521739124
+
+
+1529.txt
+['continuous time system', 'discrete event model', 'discrete-event simulation', 'dynamical system', 'piecewise constant function', 'quantized state systems']
+['discrete event model', 'continuous time system', 'continuous system simulation', 'continuous system', 'linear function', 'dynamical system', 'quantization function', 'stability property', 'input trajectory', 'variable trajectory']
+0.3 0.5 0.37499999999999994
+
+
+1530.txt
+['discrete discrepancy', 'experimental run', 'factorial design', 'resolvable balanced incomplete block design', 'uniform supersaturated design']
+['resolvable balanced incomplete block design', 'uniform supersaturated design', 'strong link', 'factorial design', 'low bound', 'discrete discrepancy', 'design uniformity', 'discrepancy']
+0.5 0.8 0.6153846153846154
+
+
+1538.txt
+['atm', 'broadband network', 'data resource migration', 'distributed network', 'heuristic', 'network topology', 'resource location']
+['average time delay', 'data resource migration', 'location management algorithm', 'dynamic migration', 'experimental result', 'request generation', 'simulation study', 'distributed network', 'network topology', 'heuristic approach', 'transaction processing', 'system parameter', 'current site', 'network']
+0.21428571428571427 0.42857142857142855 0.2857142857142857
+
+
+1540.txt
+['adaptive thinning', 'convex function', 'delaunay triangulation', 'error', 'piecewise linear function', 'scattered data', 'triangulated subset']
+['practical adaptive thinning algorithm', 'piecewise linear interpolants', 'piecewise linear function', 'thinning process', 'nonadaptive thinning', 'original scattered', 'paper study', 'delaunay triangulation', 'convex function', 'numerical test', 'sampled function', 'convex triangulation', 'reasonable cost', 'quadratic polynomial', 'performing measure', 'actual error', 'approximation error']
+0.17647058823529413 0.42857142857142855 0.25
+
+
+1544.txt
+['character generation', 'computer graphic', 'graphic generation', 'message', 'nkk smartswitch', 'text', 'user interface']
+['workplace safety', 'basic interface', 'character generation', 'graphic generation', 'user interface', 'nkk']
+0.5 0.42857142857142855 0.4615384615384615
+
+
+1546.txt
+['banach space', 'impulsive evolution equation', 'impulsive system', 'linear quadratic regulator', 'necessary condition', 'optimal control', 'optimality']
+['classical linear quadratic regulator', 'impulsive evolution equation', 'impulsive system', 'optimal control', 'basic notation']
+0.6 0.42857142857142855 0.5
+
+
+1550.txt
+['asymptotic error constant', 'bermudez-moreno algorithm', 'constant parameter', 'convergence theorem', 'duality numerical algorithm', 'optimal parameter', 'variational inequality']
+['asymptotic error constant', 'duality numerical algorithm', 'theoretical result', 'optimal parameter', 'explicit form', 'convergence theorem', 'constant', 'numerical']
+0.5 0.5714285714285714 0.5333333333333333
+
+
+1557.txt
+['boundedness', 'finite interval', 'general exponential weight', 'infinite interval', 'mth partial sum', 'orthonormal expansion', 'orthonormal polynomial']
+['mth partial sum', 'infinite interval', 'orthonormal polynomial', 'polynomial', 'finite', 'infinity']
+0.5 0.42857142857142855 0.4615384615384615
+
+
+156.txt
+['alarm-correlation', 'cellular phone network', 'extended logic programming', 'fault diagnosis', 'large mobile phone network', 'network operator']
+['cellular phone network alarm correlation', 'mobile phone network application', 'cellular phone network', 'extended logic programming', 'network operator', 'severe failure']
+0.5 0.5 0.5
+
+
+1562.txt
+['2d integral equation', 'bessel function', 'circular disk', 'hypersingular integral equation', 'integral representation', 'kernel', 'weakly singular integral equation']
+['weakly singular integral equation', 'hypersingular integral equation', 'pi integral integral', 'integral representation', 'bessel function', 'circular disk', 'pi']
+0.7142857142857143 0.7142857142857143 0.7142857142857143
+
+
+1590.txt
+['cornwell management consultants', 'electronic record management policy']
+['electronic record management policy', 'cornwell management consultants']
+1.0 1.0 1.0
+
+
+1594.txt
+['gradient algorithm', 'minimization', 'monotonicity', 'multilayer perceptrons', 'neural network', 'online gradient algorithm', 'ridge function', 'univariate function', 'weak convergence']
+['online gradient algorithm', 'neural network', 'univariate function', 'weak convergence', 'algorithm']
+0.8 0.4444444444444444 0.5714285714285714
+
+
+161.txt
+['e-books', 'electronic book', 'library journal']
+['sustainable business model', 'electronic book', 'library journal', 'major event', 'consumer market', 'reading device', 'cheap']
+0.2857142857142857 0.6666666666666666 0.4
+
+
+1610.txt
+['dynamic goal programming model', 'dynamic multi-objective heating optimization', 'dynamic structure', 'energy consumption', 'epsilon -constraint', 'ideal temperature interval', 'modelling requirement', 'multi-objective heating optimization', 'multicriteria approach', 'numerical example', 'relaxation method', 'space heating', 'spreadsheet environment', 'time varying electricity price']
+['ideal temperature interval', 'energy consumption', 'spreadsheet environment', 'traditional epsilon', 'modelling requirement', 'goal programming', 'dynamic structure', 'multicriteria approach', 'relaxation method', 'dynamic goal']
+0.7 0.5 0.5833333333333334
+
+
+162.txt
+['critical-thinking skill', 'digital literacy', 'english-language publication', 'international news site', 'medium awareness', 'non north american site', 'web access']
+['english language version', 'english web access', 'international news site', 'electronic news', 'medium awareness', 'digital literacy', 'foreign site', 'site']
+0.375 0.42857142857142855 0.39999999999999997
+
+
+1625.txt
+['autocorrelation function', 'average magnitude difference function', 'background noise', 'cepstrum method', 'fuzzy weighting scheme', 'noisy speech', 'pitch extraction', 'simulation result', 'speech analysis-synthesis system']
+['fuzzy weighting scheme', 'noisy speech', 'simulation result', 'background noise', 'conventional approach', 'pitch period']
+0.6666666666666666 0.4444444444444444 0.5333333333333333
+
+
+1631.txt
+['exponentiation algorithm', 'public-key encryption', 'rsa cryptosystem implementation stage', 'security', 'side-channel attack resistance', 'smart card']
+['rsa cryptosystem implementation stage', 'major security concern', 'protected rsa exponentiation', 'exponentiation algorithm', 'smart card', 'running time']
+0.5 0.5 0.5
+
+
+1652.txt
+['entropy weak solution', 'finite volume scheme', 'model equation', 'nonlinear degenerate parabolic equation', 'numerical result', 'piecewise constant function', 'strong convergence']
+['nonlinear parabolic degenerate equation', 'piecewise constant function', 'entropy weak solution', 'model equation', 'delta phi', 'numerical result', 'strong convergence', 'time step', 'step']
+0.5555555555555556 0.7142857142857143 0.6250000000000001
+
+
+1653.txt
+['circulant preconditioners', 'conjugate gradient method', 'eigenvalue', 'generating function', 'hermitian toeplitz system', 'multiple-zero case', 'nonnegative continuous function', 'preconditioned matrix']
+['conjugate gradient method converges', 'complete convergence proof', 'nonnegative continuous function', 'hermitian toeplitz system', 'main aim', 'explicit knowledge', 'preconditioned matrix', 'generating function', 'multiple zero', 'method']
+0.4 0.5 0.4444444444444445
+
+
+1654.txt
+['computational test', 'nonlinear complementarity problem', 'numerical validation', 'optimization']
+['numerical validation', 'validation method', 'validation procedure', 'computational test', 'test']
+0.4 0.5 0.4444444444444445
+
+
+1660.txt
+['classical conjugate direction method', 'classical relaxation method', 'coefficient matrix', 'convergence property', 'ill-conditioned linear system', 'large sparse system', 'linear equation', 'regularized conjugate gradient method', 'symmetric positive definite system']
+['symmetric positive definite matrix', 'symmetric positive definite system', 'classical conjugate direction method', 'classical relaxation method', 'sparse system', 'coefficient matrix', 'convergence property']
+0.7142857142857143 0.5555555555555556 0.6250000000000001
+
+
+1669.txt
+['economic benefit', 'fletcher challenge paper australasia', 'large mixed integer program', 'optimal allocation', 'paper industry value optimisation tool', 'pivot', 'strategic decision problem', 'supply chain optimisation', 'tactical decision problem']
+['fletcher challenge paper australasia', 'supply chain detail', 'supply chain optimisation', 'optimisation tool', 'economic benefit', 'tactical decision', 'integer program', 'optimal allocation', 'optimisation model']
+0.4444444444444444 0.4444444444444444 0.4444444444444444
+
+
+1673.txt
+['aerial surveillance', 'flight route', 'genetic algorithm', 'geographical region scanning', 'high-resolution image', 'integer programming', 'mission planning', 'optimised flight route', 'regional surveillance', 'solution optimality', 'synthetic aperture radar device', 'total distance travelled']
+['synthetic aperture radar device', 'employing integer programming', 'optimised flight route', 'mission planning', 'genetic algorithm', 'cpu time', 'aerial surveillance', 'total distance', 'solution optimality']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+1681.txt
+['bipartite matching algorithm', 'exact algorithm', 'flow cost', 'integral simplex method', 'low bound', 'nonnegative flow cost', 'np-hard problem', 'one facility one commodity network design problem', 'pivot', 'quasi integral', 'two facility network design']
+['commodity network design', 'integer extreme solution', 'facility network design', 'nonnegative flow cost', 'bipartite matching algorithm', 'integral simplex method', 'flow cost', 'matching algorithm', 'quasi integral', 'low bound', 'modified version', 'arc capacity']
+0.5 0.5454545454545454 0.5217391304347826
+
+
+1696.txt
+['axial resolution', 'frequency decomposition', 'medical diagnostic imaging', 'ultrasound medical image', 'wavelet packet']
+['ultrasound medical image', 'frequency decomposition', 'wavelet packet', 'axial resolution', 'processing procedure']
+0.8 0.8 0.8000000000000002
+
+
+1743.txt
+['adaptive p-controller', 'adaptive pd-controller', 'adaptive stabilization', 'augmented system', 'imaginary axis', 'parallel compensator', 'pole and zero', 'position feedback', 'proportional plus derivative controller', 'undamped flexible structure', 'velocity feedback']
+['output operator', 'imaginary axis', 'velocity feedback', 'parallel compensator', 'position feedback', 'controlled system', 'augmented system', 'derivative controller']
+0.625 0.45454545454545453 0.5263157894736842
+
+
+1751.txt
+['adaptive time step procedure', 'explicit euler approximation', 'fully discrete approximation', 'nonlinear boundary condition', 'parabolic problem', 'runge-kutta method', 'standard linear element']
+['simple ordinary differential equation', 'adaptive time step procedure', 'standard linear element', 'nonlinear boundary condition', 'explicit euler approximation', 'discrete approximation', 'sufficient condition', 'time converges', 'finite time', 'mass lumping', 'space variable']
+0.36363636363636365 0.5714285714285714 0.4444444444444444
+
+
+1755.txt
+['differential operator', 'functional equation', 'harmonic coefficient', 'modular transformation', 'number field', 'quadratic form', 'symplectic theta function']
+['symplectic theta function', 'quadratic form', 'differential operator']
+1.0 0.42857142857142855 0.6
+
+
+1763.txt
+['2d free surface wave', 'boundary integral method', 'instable kelvin-helmholtz term', 'linear analysis', 'linearized equation', 'numerical study']
+['boundary integral method', 'free surface wave', 'compatible condition', 'compatible relationship', 'linear analysis', 'error increase', 'surface wave', 'numerical study', 'linearized equation', 'shallow bottom', 'surface', 'numerical', 'equation']
+0.3076923076923077 0.6666666666666666 0.42105263157894735
+
+
+1768.txt
+['cyclic kernel', 'elliptic curve isogenous', 'explicit model', "mazur 's theorem", 'rational', 'smooth projective curve', 'weierstrass equation']
+['smooth projective curve', 'cyclic kernel', 'weierstrass equation', 'morphism phi', 'isogenous curve', 'phi', 'isogeny', 'family']
+0.375 0.42857142857142855 0.39999999999999997
+
+
+1769.txt
+['artificial intelligence', 'declarative language', 'experimental result', 'fold-unfold transformation', 'functional programming', 'functional-logic program', 'logic programming', 'program transformation rule', 'synth']
+['transformation system synth', 'transformation rule', 'wide class', 'declarative language', 'artificial intelligence', 'experimental result', 'logic programming', 'phd dissertation', 'strategies', 'content']
+0.4 0.4444444444444444 0.4210526315789474
+
+
+177.txt
+['call pattern change', 'customer demographic', 'customer retention effort', 'decision tree induction', 'deregulation', 'lift factor', 'mobile service provider', 'mobile telecommunication industry', 'multi-classifier class-combiner approach', 'skewed class distribution', 'subscriber contractual information', 'telecommunication call detail']
+['technique exhibit satisfactory predictive effectiveness', 'churn prediction model construction', 'reasonable predictive power', 'mobile telecommunication industry', 'skewed class distribution', 'empirical evaluation result', 'mobile telecommunication provider', 'customer retention effort', 'call pattern change', 'data mining approach', 'telecommunication call detail', 'mobile service provider', 'model construction', 'churn prediction', 'customer demographic', 'specific prediction', 'contract level', 'lift factor']
+0.4444444444444444 0.6666666666666666 0.5333333333333333
+
+
+1772.txt
+['job market', 'library profession', 'midcareer librarian', 'technology competency requirement']
+['future job market', 'technology competency requirement', 'american libraries', 'mls curriculum', 'advertised qualification', 'library profession', 'position advertisement', 'article examines']
+0.25 0.5 0.3333333333333333
+
+
+1777.txt
+['library', 'midlife career choice', 'productivity', 'technological change']
+['senior product strategist', 'wings tm system', 'midlife career choice', 'midlife decision', 'personal narrative', 'career choice', 'dependable environment', 'precious cargo', 'midlife experience', 'candy start', 'static refuge', 'technological change', 'library vendor', 'career', 'choice']
+0.13333333333333333 0.5 0.2105263157894737
+
+
+1781.txt
+['archival profession', 'career movement', 'continuing education', 'job market', 'large university library', 'librarian', 'library profession', 'midcareer', 'occupational development', 'personal skill', 'professional education', 'small college library', 'training', 'work experience']
+['job market condition', 'bad moment conspire', 'university library issues', 'job market', 'major league', 'future consideration', 'proper planning', 'personal skill', 'occupational development', 'archival field', 'archival profession', 'midcareer professional', 'college venue', 'career movement', 'professional education', 'issues', 'easy', 'observation', 'institutional']
+0.3157894736842105 0.42857142857142855 0.36363636363636365
+
+
+1784.txt
+['2002 annual bibliography', 'conference proceeding', 'cyberethics bibliography', 'journal', 'periodical', 'recent book', 'special issue']
+['annual bibliography update', 'cyberethics bibliography', 'conference proceeding', 'special issue']
+0.75 0.42857142857142855 0.5454545454545454
+
+
+1786.txt
+['baylor university', 'computer science advisor', 'computer science major', 'computer science student', 'course performance data', 'humane tool', 'parent', 'regression study', 'sophomore year', 'student care']
+['computer science department faculty', 'computer science faculty advisor', 'senior level computer science', 'computer science major', 'computer science student', 'humane tool', 'substantial difficulty', 'regression study', 'baylor university', 'study sample', 'performance data', 'caring']
+0.4166666666666667 0.5 0.45454545454545453
+
+
+1805.txt
+['aep', 'aliasing error probability', 'analytical model', 'binary stream', 'control signal', 'control stream error probability', 'flexible geometry', 'high-impedance state', 'motherboard vlsi design', 'signature analyser', 'signature analysis', 'test pattern length', 'two-input compacting module', 'two-input shift register']
+['control stream error probability', 'test pattern length', 'motherboard vlsi design', 'modified signature analyser', 'binary stream', 'signature analyser', 'shift register', 'data probe', 'neighbouring structure', 'flexible geometry', 'signature analysis', 'ticm architecture']
+0.5833333333333334 0.5 0.5384615384615384
+
+
+1806.txt
+['constant multiplication', 'final chip area', 'linear dsp transforms', 'memory requirement', 'multiplierless realisation', 'pseudopolynomial run-time', 'resource folding', 'wordlengths']
+['linear dsp transforms', 'constant multiplication', 'multiplierless realisation', 'resource folding', 'memory requirement', 'major reduction', 'final chip', 'efficient algorithm']
+0.625 0.625 0.625
+
+
+1807.txt
+['gradient controllability problem', 'minimum energy', 'numerical algorithm', 'optimal control', 'parabolic system domain boundary', 'regional boundary gradient target', 'regional flux target', 'target subregion']
+['regional boundary gradient target', 'regional flux target', 'parabolic system domain', 'gradient controllability', 'target subregion', 'numerical illustration', 'numerical algorithm', 'optimal control']
+0.625 0.625 0.625
+
+
+1814.txt
+['approximate recovery time', 'control action bound', 'dead-time', 'disturbance response', 'gain-uncertainty bound', 'integral process', 'maximum decay rate', 'maximum dynamic error', 'quantitative analysis', 'robust stability region', 'robustness', 'step-disturbance response', 'sufficient condition']
+['maximum decay rate', 'robust stability region', 'approximate recovery time', 'maximum dynamic error', 'dynamic error', 'dead time', 'sufficient condition', 'square root', 'quantitative analysis', 'control parameter']
+0.6 0.46153846153846156 0.5217391304347826
+
+
+1826.txt
+['alpha shape theory', 'biological macromolecule', 'biological structure', 'cavity', 'channel', 'compact representation', 'connectivity', 'data representation', 'database framework', 'general model', 'geometry', 'low-resolution density map', 'medium resolution data', 'modeling', 'original volume data', 'probability density function', 'structural feature', 'three-dimensional point', 'topology', 'vector quantization algorithm', 'volumetric datasets']
+['vector quantization algorithm', 'original volume data', 'quantitative structural feature', 'probability density function', 'medium resolution data', 'data representation', 'low resolution', 'volumetric datasets', 'biological structure', 'database framework', 'unrelated bunch', 'compact representation', 'biological macromolecule', 'density map', 'density']
+0.6666666666666666 0.47619047619047616 0.5555555555555556
+
+
+1832.txt
+['2-monotonic function', 'linear time algorithm', 'monotone boolean function', 'nonzero component', 'positive function', 'regular boolean function', 'true vector']
+['simple linear time', 'minimal true vector', 'linear time algorithm', 'regular boolean function', 'boolean function', 'nonzero component', 'previous algorithm', 'positive function', 'time', 'function']
+0.4 0.5714285714285714 0.47058823529411764
+
+
+1840.txt
+['application server', 'client-server computing', 'eai system', 'etl system', 'federated data system', 'middleware system', 'multi-tier computing', 'overlapping functionality', 'poorly integrated system', 'workflow product']
+['federated data system', 'application server', 'workflow product', 'eai system', 'etl system', 'considerable consolidation']
+0.8333333333333334 0.5 0.625
+
+
+1843.txt
+['globalization', 'information sharing', 'intraorganizational knowledge sharing', 'multi-echelon supply chain process model', 'multiple organization', 'performance scalability', 'production', 'sale', 'software component', 'supply chain infrastructure', 'supply chain integration', 'system integration']
+['supply chain process model', 'supply chain infrastructure', 'supply chain integration', 'intraorganizational knowledge sharing', 'system integration', 'integration architecture', 'multiple organization', 'prototype implementation', 'software component', 'modeling scis']
+0.6 0.5 0.5454545454545454
+
+
+1851.txt
+['global user profile', 'globally unique user id/password identification', 'internet', 'mobile device', 'namespace qualifier', 'navigational history log file', 'personalization', 'platform for privacy preferences standard', 'privacy', 'resource description framework', 'telecommunication network', 'trusted authority', 'user agent', 'user click stream', 'web site', 'xml']
+['resource description framework', 'extensible markup language', 'user click stream', 'global user profile', 'dynamic user profile', 'interoperable user profile', 'trusted authority personalization', 'trusted authority', 'authorized site', 'navigational history', 'telecommunication network', 'user agent', 'log file', 'privacy preferences', 'web site', 'authority', 'personalization', 'responsive']
+0.4444444444444444 0.5 0.47058823529411764
+
+
+1858.txt
+['account aggregation', 'financial planning service']
+['portfolio cpa provider', 'financial planning service']
+0.5 0.5 0.5
+
+
+1859.txt
+['abak', 'accounting practice management software', 'cch prosystem fx practice', 'cms open solutions 6', 'cpasoftware visual practice management', 'creative solutions practice', 'time matters', 'web-based time tracking']
+['cch prosystem fx practice', 'cpasoftware visual practice management', 'practice management software', 'creative solutions practice', 'valuable category', 'time matters', 'grows']
+0.5714285714285714 0.5 0.5333333333333333
+
+
+1878.txt
+['complexity', 'max limiter', 'min limiter', 'recursive set', 'retraceable set']
+['sharp contrast', 'partial recursive', 'min limiter', 'function max', 'recursive set', 'retraceable set', 'min', 'complexity']
+0.5 0.8 0.6153846153846154
+
+
+1885.txt
+['generalized roesser system', 'left ore ring', 'meromorphic function', 'module', 'noncommutative polynomial', 'noncommutative ring', 'nonlinear control system', 'nonlinear time-delay system', 'weak observability']
+['left ore ring', 'generalized roesser system', 'nonlinear control system', 'meromorphic function', 'closed submodules', 'weak observability', 'broad class', 'nonlinear system', 'linear result', 'time delay']
+0.5 0.5555555555555556 0.5263157894736842
+
+
+1889.txt
+['continuous feedback control', 'control theoretic technique', 'distributed discrete-event scheduling', 'distributed manufacturing application', 'highly nonlinear discontinuous dynamic', 'production demand', 'real-time scheduling', 'resource capacity', 'sliding mode dynamic']
+['continuous feedback control system', 'sliding mode domain', 'control theoretic technique', 'distributed manufacturing application', 'sliding mode dynamic', 'manufacturing system', 'discontinuous dynamic', 'mode behavior', 'resource capacity', 'computational result', 'discrete event', 'infinitesimal region', 'production demand', 'scheduling application']
+0.35714285714285715 0.5555555555555556 0.43478260869565216
+
+
+1894.txt
+['convex polyhedral lyapunov function', 'nonlinear discrete time hybrid system', 'switching controller design', 'systematic design method']
+['nonlinear discrete time hybrid system', 'systematic switching control design method', 'convex polyhedral lyapunov function', 'controller design']
+0.5 0.5 0.5
+
+
+1898.txt
+['acceleration bound', 'chassis acceleration', 'damping', 'extreme suspension deflection', 'front axle suspension', 'full-scale model', 'incidental road disturbance', 'inward deflection', 'multibody system dynamic', 'numerical optimization', 'road undulation', 'sequential linear programming', 'stroke dependent damper', 'truck comfort', 'truck semi-trailer combination', 'vehicle model simulation']
+['multibody dynamic simulation software', 'multibody system dynamic', 'incidental road disturbance', 'sequential linear programming', 'typical road undulation', 'vehicle model simulation', 'optimum stroke dependent', 'stroke dependent damping', 'freedom vehicle model', 'suspension deflection subject', 'extreme suspension deflection', 'damper supply', 'chassis acceleration', 'acceleration bound', 'curve yield', 'truck comfort']
+0.5 0.5 0.5
+
+
+1910.txt
+['average performance', 'benign mass', 'breast cancer', 'clinical mammogram', 'community radiologist', 'computer aid', 'computer-aided diagnosis', 'computerized classification method', 'diagnostic accuracy', 'independent database', 'malignant mass', 'mammographers', 'observer study', 'performance', 'radiologist observer', 'receiver operating characteristic analysis', 'receiver operating characteristic curve', 'statistical significance', 'student t test', 'trained computer classification scheme', 'two-tailed p value']
+['trained computer classification scheme', 'computerized classification method', 'breast cancer', 'diagnostic accuracy', 'independent database', 'statistical significance', 'observer study', 'radiologist observer', 'clinical mammogram', 'average performance', 'improved', 'test', 'reading', 'partial', 'sensitivity', 'analysis', 'cl']
+0.5882352941176471 0.47619047619047616 0.5263157894736842
+
+
+1914.txt
+['10/sup -6/ pa', '300 hz', '300 m', 'gas-tight bellow', 'ground strain', 'interferometric gravitational wave detector', 'long-term dimensional stability', 'metal block', 'multilayer stack', 'operating point', 'rubber block', 'rubber outgassing', 'tama300 interferometer', 'thermal actuator', 'thermal drift', 'ultrahigh vacuum environment', 'vacuum compatibility', 'vibration isolation stack']
+['ultrahigh vacuum environment', 'vibration isolation ratio', 'vibration isolation stack', 'isolation system', 'dimensional stability', 'thermal actuator', 'multilayer stack', 'metal block', 'ground strain', 'thermal drift', 'vacuum compatibility', 'rubber block', 'stack']
+0.6923076923076923 0.5 0.5806451612903226
+
+
+192.txt
+['collection development', 'history', 'informal conversation', 'intellectual output', 'local writer', 'new jersey african american woman writer', 'oral repository', 'personal interview', 'special collection', 'written source']
+['jersey african american woman writer', 'african american woman writer', 'local writer', 'oral repository', 'qualitative evidence', 'acquisition purpose', 'collection development', 'intellectual output', 'informal conversation', 'personal interview']
+0.6 0.6 0.6
+
+
+1928.txt
+['dynamic programming method', 'euclidean combinatorial optimization problem']
+['dynamic programming method', 'solution']
+0.5 0.5 0.5
+
+
+1935.txt
+['admissible measurement error', 'complex system state identification', 'fuzzy information', 'fuzzy set theory', 'informative attribute', 'measurement error']
+['fuzzy set theory', 'admissible measurement error', 'measurement error', 'admissible degree', 'informative attribute']
+0.8 0.6666666666666666 0.7272727272727272
+
+
+1939.txt
+['linear constraint', 'linear diophantine equation', 'minimal generating set', 'nonstrict inequations', 'set of natural number', 'strict inequations', 'upper bound']
+['linear diophantine equation', 'minimal supporting set', 'linear constraint', 'strict inequations', 'nonstrict inequations', 'corresponding algorithm', 'component']
+0.5714285714285714 0.5714285714285714 0.5714285714285714
+
+
+1941.txt
+['bipolar function', 'bipole level', 'descriptive process', 'descriptological foundation', 'intensional concept', 'programming']
+['complete set', 'bipolar function', 'descriptological operation', 'descriptive process', 'bipole level', 'intensional concept']
+0.6666666666666666 0.6666666666666666 0.6666666666666666
+
+
+1948.txt
+['collective dose calculation', 'electronic population data resource', 'facility operation', 'geographic information system software', 'personal computer', 'public']
+['electronic population data resource', 'collective dose calculation', 'collective dose', 'facility operation']
+0.75 0.5 0.6
+
+
+195.txt
+['music publishing industry', 'out-of-print music', 'out-of-print printed music', 'performance edition', 'scholarly edition', 'specialized publisher', 'specialized vendor', 'technical music vocabulary']
+['technical music vocabulary', 'music publishing industry', 'scholarly edition', 'performance edition', 'specialized publisher']
+1.0 0.625 0.7692307692307693
+
+
+1950.txt
+['airy stress function', 'density distribution profile', 'inverse method', 'loading condition', 'piezoelectric cantilever actuator', 'piezoelectric material', 'plane strain theory', 'polynomial', 'transversely isotropic body']
+['airy stress function method', 'plane strain theory', 'piezoelectric cantilever actuator', 'density distribution profile', 'induction function', 'piezoelectric material', 'inverse method', 'loading condition', 'isotropic body']
+0.6666666666666666 0.6666666666666666 0.6666666666666666
+
+
+1954.txt
+['asset return', 'asymptotic property', 'confidence interval', 'detrended fluctuation analysis', 'financial economics', 'finite sample property', 'gaussian white noise', 'heuristic value', 'long horizon', 'long-range dependence', 'periodogram regression method']
+['gaussian white noise', 'asymptotic distribution theory', 'finite sample property', 'asymptotic property', 'major issue', 'financial economics', 'asset return', 'unanimous winner', 'simulated series', 'fluctuation analysis', 'dfa statistic']
+0.45454545454545453 0.45454545454545453 0.45454545454545453
+
+
+1969.txt
+['car-following theory', 'dynamic evolution', 'motion equation', 'multilane traffic model', 'nonlinear poisson equation', 'poisson equation', 'road user', 'self-consistent multiclass dynamic traffic flow modeling', 'traffic dispersion model', 'variance equation', 'vehicular boltzmann equation']
+['multiclass multilane traffic model', 'nonlinear poisson equation', 'traffic dispersion model', 'dynamic traffic flow', 'vehicular boltzmann equation', 'dynamic evolution', 'variance equation', 'equilibrium assumption', 'individual velocity', 'chain rule', 'user share', 'physical meaning', 'road user', 'road', 'addition', 'density']
+0.375 0.5454545454545454 0.4444444444444444
+
+
+1970.txt
+['e-marketing', 'electronic commerce', 'food service company', 'internet presence', 'profitability', 'restaurant web site', 'revenue']
+['powerful marketing tool', 'effective website design', 'coherent website strategy', 'food service company', 'effective web presence', 'internet presence', 'global company', 'website development', 'additional resource', 'website effectiveness', 'unparalleled strength', 'potential customer', 'electronic commerce', 'restaurant web', 'restaurant']
+0.2 0.42857142857142855 0.27272727272727276
+
+
+1971.txt
+['global electronic market', 'hotel industry', 'hotel web site', 'multimedia', 'web based relationship marketing', 'web content survey', 'world wide web marketing']
+['global electronic market', 'web content survey', 'wide web marketing', 'content analysis study', 'hotel web site', 'web marketing application', 'content analysis', 'web site', 'measurement instrument', 'current approach', 'strategic exploitation', 'strategic framework', 'key change', 'marketing tool', 'historical perspective', 'web presence', 'hotel product', 'descriptive study', 'hotel web', 'web technology', 'interactive mean', 'result']
+0.13636363636363635 0.42857142857142855 0.20689655172413793
+
+
+1972.txt
+['business model', 'dynamic pricing', 'internet usage', 'lodging industry', 'marketing', 'online auction', 'online intermediary', 'overnight accommodation', 'price setting mechanism', 'sale', 'specialty broker', 'supply chain', 'trading model', 'web site scripting']
+['efficient market pricing', 'web site scripting', 'traditional trading model', 'traditional pricing model', 'dynamic pricing model', 'industry profit margin', 'product distribution channel', 'traditional channel', 'trading model', 'lodging industry', 'industry leader', 'business model', 'pricing theory', 'supply chain', 'specialty broker', 'overnight accommodation', 'flexible system', 'online intermediary', 'internet usage', 'web', 'intermediary', 'share', 'prevalent', 'consumer']
+0.375 0.6428571428571429 0.4736842105263159
+
+
+1975.txt
+['accumulation moment', 'computationally efficient algorithm', 'edge detection', 'image analysis', 'image convolution', 'integral-based feature', 'local feature', 'local geometric moment computation', 'matrix formulation', 'neighborhood operation', 'overlapping window', 'texture segmentation']
+['local geometric moment local moment', 'local moment', 'accumulation moment', 'local feature', 'uncorrelated noise', 'matrix formulation', 'edge detection', 'texture segmentation', 'main reason', 'neighborhood operation', 'efficient computation']
+0.5454545454545454 0.5 0.5217391304347826
+
+
+1980.txt
+['3-d discrete wavelet transform', '3-d mri data', 'bitstream', 'decomposition depth', 'diagnostic relevance', 'disjoint segment', 'embedded zerotree coding', 'ezw-3d', 'filter length', 'head magnetic resonance image', 'integer-to-integer value', 'lifting step scheme', 'lossless object-based coding', 'lossy object-based coding', 'multidimensional layered zero coding', 'nmzq', 'object-based inverse transform', 'rate allocation', 'region boundary', 'region of interest-based processing', 'roi-based processing', 'volumetric data']
+['coding process assigns disjoint segment', 'head magnetic resonance image', 'multidimensional layered zero coding', 'lifting step scheme', 'discrete wavelet transform', 'lossless coding', 'inverse transform', 'rate allocation', 'diagnostic relevance', 'competitive performance', 'filter length', 'decomposition depth', 'volumetric data', 'extra coefficient', 'region boundary', 'mlzc mode', 'data']
+0.5294117647058824 0.4090909090909091 0.46153846153846156
+
+
+1986.txt
+['application software package', 'control center infrastructure', 'electric service continuity', 'ems control center', 'energy management system', 'energy market', 'liberalized environment', 'load-following control', 'security control', 'standard component']
+['application software package', 'energy management system', 'control center function', 'energy market', 'major function', 'standard component', 'market rule', 'liberalized environment', 'technology trend', 'utility business']
+0.5 0.5 0.5
+
+
+199.txt
+['action-recovery model', 'brain', 'mammalian auditory system', 'peripheral auditory system', 'quiescent firing rate', 'spiral ganglion neuron', 'stochastic fitzhugh-nagumo model', 'weak sinusoidal signal']
+['spiral ganglion neuron', 'weak sinusoidal signal', 'mammalian auditory system', 'peripheral auditory system', 'constant quiescent', 'cochlear nucleus', 'synaptic connection', 'frequency dependent', 'synaptic depression', 'probability measure', 'fundamental limit', 'hair cell', 'processing performance', 'signal', 'cell', 'independent']
+0.25 0.5 0.3333333333333333
+
+
+1992.txt
+['additive scheme', 'content descriptor', 'correlation property', 'delaunay tessellation', 'detection scheme', 'digital image', 'embedding', 'feature extraction', 'feature point', 'geometrical attack', 'geometrical distortion', 'geometrically invariant watermarking', 'global transformation', 'image content', 'invariant property', 'jpeg compression', 'local transformation', 'periodical property', 'rotation', 'self-synchronizing scheme', 'stirmark attack', 'template insertion', 'transforms', 'translation']
+['classical additive scheme', 'stirmark attack', 'jpeg compression', 'content descriptor', 'template insertion', 'periodical property', 'correlation property', 'enhanced detector', 'geometrical attack', 'concluding remark', 'local transformation', 'original image', 'geometrical transformation', 'digital image', 'global transformation', 'image content', 'theses scheme', 'presented scheme', 'invariant property', 'delaunay tessellation']
+0.65 0.5416666666666666 0.5909090909090908
+
+
+1994.txt
+['chromaticity', 'color by correlation method', 'computational color constancy algorithm', 'gamut-mapping method', 'gray world method', 'illumination condition', 'image', 'image data', 'input data statistic', 'neural net method', 'pixel intensity', 'preprocessing strategy', 'retinex method', 'scene illuminant', 'synthesized data']
+['computational color constancy algorithms', 'computational color constancy algorithm', 'color constancy idea', 'common illumination condition', 'neural net algorithm', 'input data statistic', 'neural net method', 'image chromaticity statistic', 'source representative', 'comprehensive set', 'real image', 'pixel intensity', 'synthesized data', 'retinex method', 'scene illuminant', 'comparable performance', 'correlation method', 'correlation', 'strategy', 'online']
+0.35 0.4666666666666667 0.4
+
+
+1995.txt
+['algorithm performance', 'chromaticity', 'clipping', 'color by correlation method', 'computational color constancy algorithm', 'gamut-mapping method', 'gray world method', 'illumination invariant image', 'neural net method', 'reflectance spectrum', 'retinex method', 'scene illuminant', 'specularities', 'synthesized data']
+['computational color constancy algorithm', 'computational color constancy', 'color constancy quantity', 'neural net method', 'illumination invariant', 'reflectance spectrum', 'ground truth', 'added specularities', 'subsequent clipping', 'retinex method', 'correlation method', 'algorithm performance', 'synthesized data', 'scene illuminant', 'illuminant', 'scene', 'hubel', 'ability', 'estimate', 'relative']
+0.35 0.5 0.4117647058823529
+
+
+1999.txt
+['absolute value sum h/sub infinity / norm', 'complementary sensitivity function', 'dead-time compensating controller', 'dead-time compensator', 'dead-time margin', 'dtc', 'equal robustness', 'iae', 'integrated absolute error', 'integrating process', 'performance comparison', 'performance criterion', 'pi controller', 'pid controller', 'stable process', 'step load disturbance']
+['step load disturbance', 'integrated absolute error', 'complementary sensitivity function', 'fair comparison', 'integrating process', 'plant input', 'performance comparison', 'performance criterion', 'equal robustness', 'pid controller', 'absolute', 'function']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+2010.txt
+['class-conditional distribution', 'class-conditional error rate', 'dynamic contrast-enhanced perfusion mr image', 'dynamic magnetic resonance image', 'experiment', 'inherent scale selection', 'labelled image', 'neural net classifier', 'noise level', 'optimal sampling', 'paramagnetic tracer', 'pixel-based image segmentation', 'quality measure', 'scale-invariant segmentation']
+['prior distribution ensures constant', 'uniform prior class distribution', 'inherent scale selection selection', 'neural net classifier', 'dynamic magnetic resonance', 'scale depends', 'spatial property', 'quality measure', 'optimal sampling', 'paramagnetic tracer', 'theoretical result', 'actual size', 'location accuracy', 'noise level', 'labelled image', 'spatial feature', 'optimal set', 'image segmentation', 'segmentation approach', 'classifier']
+0.3 0.42857142857142855 0.3529411764705882
+
+
+2019.txt
+['accurate scene analysis', 'average error rate', 'cast shadow', 'chrominance', 'cloudy', 'combined probability map', 'convex hull', 'effective moving cast shadow detection', 'erroneous scene analysis', 'geometry domain', 'gradient density', 'image segmentation', 'inaccurate vehicle segmentation', 'input image', 'lighting condition', 'luminance', 'monocular color traffic image sequence', 'moving cast shadow', 'moving vehicle', 'robust segmentation', 'selected vehicle edge pixel', 'shadow confidence score', 'stationary background', 'sunny', 'vehicle image', 'vehicle size', 'viewing angle']
+['low error rate', 'erroneous scene analysis', 'average error rate', 'accurate scene analysis', 'combined probability map', 'shadow confidence score', 'inaccurate vehicle segmentation', 'vehicle edge pixel', 'cast shadow detection', 'vehicle image', 'input image', 'edge map', 'robust segmentation', 'vehicle size', 'lighting condition', 'gradient density', 'geometry domain', 'convex hull']
+0.7777777777777778 0.5185185185185185 0.6222222222222222
+
+
+202.txt
+['2d gaussian filter', 'convolution', 'curvature scale space method', 'evolution property', 'free-form 3d surface', 'local parametrisations', 'mean curvature value', 'mpeg-7 evaluation framework', 'multi-scale curvature computation', 'semigeodesic coordinate', 'surface gaussian value', 'surface noise', 'underlying triangulation', 'volumetric diffusion technique']
+['curvature scale space method', 'volumetric diffusion technique', 'smoothed surface curvature', 'multiple scale', 'css method', 'gaussian curvature', 'evolution property', 'underlying triangulation', 'evaluation framework', 'local parametrisations', 'gaussian filter', 'comparable technique', 'surface noise', 'surface detail', 'surface gaussian', 'estimation error', 'independent', 'accurate']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+2036.txt
+['acute period of concussion', 'computational procedure', 'computer processing', 'mental impairment']
+['mental impairment', 'computational procedure', 'data', 'article']
+0.5 0.5 0.5
+
+
+2037.txt
+['bayesian approach', 'bayesian method', 'blue', 'linear regression parameter', 'linear regression problem regularization', 'pseudoinverse method', 'pseudoinversion', 'robust estimation']
+['linear regression parameter', 'study considers', 'pseudoinverse method', 'bayesian method', 'bayesian approach', 'regularization method']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+204.txt
+['active vision system', 'calibration parameter', 'camera calibration parameter', 'depth distortion', 'direct self-calibration method', 'image formation', 'image measurement', 'image motion field', 'image sequence', 'large video database', 'linear pinhole-camera model', 'normal flow measurement', 'optical flow', 'point correspondence', 'rigidly moving camera', 'rotational component', 'translational component']
+['active vision system', 'successive image frame', 'normal flow measurement', 'image motion field', 'camera calibration parameter', 'flow field', 'image formation', 'consecutive image', 'image measurement', 'image sequence', 'discrete motion', 'video database', 'geometric analysis', 'intrinsic parameter', 'unknown parameter', 'optical flow', 'exact correspondence', 'special set', 'projective transformation', 'translational component', 'camera', 'motion', 'transformation', 'direct']
+0.375 0.5294117647058824 0.4390243902439025
+
+
+2042.txt
+['cylindrical plasma source', 'electromagnetic hybrid model', 'field reversal layer', 'hybrid simulation', 'kelvin-helmholtz instability', 'magnetized plasma flow', 'magnetopause shear layer', 'massless fluid representation', 'pressure anisotropy', 'space plasma', 'tangential discontinuity', 'three-dimensional hybrid simulation', 'transition layer']
+['main numerical scheme', 'velocity shear region', 'cylindrical plasma source', 'magnetized plasma flow', 'magnetopause shear layer', 'massless fluid representation', 'field reversal layer', 'electromagnetic hybrid model', 'massless fluid', 'space plasma', 'transition layer', 'simple model', 'pressure anisotropy', 'tangential discontinuity', 'finite size', 'maks press']
+0.625 0.7692307692307693 0.6896551724137931
+
+
+2045.txt
+['craft woodworker', 'dynamic programming', 'flip analysis', 'managerial decision making', 'operation research', 'solitaire board game']
+['managerial decision making', 'solitaire board game', 'flip analysis flip', 'craft woodworker', 'suggest modification']
+0.6 0.5 0.5454545454545454
+
+
+2046.txt
+['academic experience', 'engineering faculty', 'management faculty', 'management perspective', 'search-oriented institution', 'university course delivery']
+['management perspective', 'academic experience', 'management faculty', 'graduate education', 'error experimentation', 'relevant literature', 'particular perspective', 'major process', 'teaching experience', 'particular', 'student', 'output']
+0.25 0.5 0.3333333333333333
+
+
+2054.txt
+['decision analysis', 'formal model', 'management science', 'modeling', 'numeracy skill']
+['sophisticated management science skill', 'teach management science', 'basic modeling skill', 'basic skill', 'numeracy skill', 'decision analysis', 'radical proposition', 'formal model', 'impressive array', 'occasional practitioner', 'heart', 'foundation']
+0.25 0.6 0.35294117647058826
+
+
+2069.txt
+['authority structure', 'committee', 'control right', 'firm organization', 'hierarchical organization', 'organizational structure', 'ultimate control group']
+['familiar economic setting', 'collective choice procedure', 'mild restriction', 'authority structure', 'ultimate controller', 'analytic machinery', 'organizational structure', 'circular structure', 'hierarchical organization', 'accountable', 'nature']
+0.2727272727272727 0.42857142857142855 0.33333333333333326
+
+
+2088.txt
+['additive shaping theory', 'cantilever', 'ceiling', 'deflection analysis', 'floating overhang', 'input format', 'layer-based machining', 'layered manufacturing process', 'material removal process', 'numerical control machining configuration', 'raw material', 'stacking operation', 'stock layer', 'stress', 'subtractive shaping theory', 'support structure design', 'vaulted overhang']
+['layered manufacturing process', 'material removal process', 'support structure design', 'raw material', 'stock layer', 'input format', 'numerical control', 'castle model', 'promising method', 'deflection analysis', 'integrated additive', 'major issue']
+0.5833333333333334 0.4117647058823529 0.4827586206896552
+
+
+2092.txt
+['anatomical information', 'automatic registration method', 'automatic ridged body transformation', 'bed position', 'computerised tomography scan', 'error', 'full circle consistency test', 'head', 'image enhancement', 'mutual information-based algorithm', 'neck', 'nonrigid motion', 'patient', 'positron emission tomography scan', 'radiotherapy treatment mask', 'registration technique', 'scanner bed', 'standard image fusion method', 'transmission scan', 'tumor biology', 'user-independent automatic validation technique']
+['validation positron emission tomography', 'standard image fusion method', 'radiotherapy treatment mask', 'automatic validation technique', 'circle consistency test', 'automatic registration method', 'registration technique', 'image enhancement', 'single position', 'nonrigid motion', 'scanner bed', 'reproducible positioning', 'voxel size', 'match result', 'tumor biology', 'bed position', 'body transformation', 'ct data', 'detailed anatomical', 'pet voxels', 'registration', 'ct', 'conclusion', 'feature']
+0.375 0.42857142857142855 0.39999999999999997
+
+
+2094.txt
+['bayesian decision procedure', 'gauss inequality', 'minimal probability content', 'parameter space', 'partial prior information', 'prior distribution', 'prior-to-posterior sensitivity']
+['minimal probability content', 'bayesian decision procedure', 'relevant parameter subset', 'parameter space', 'prior distribution', 'partial prior']
+0.6666666666666666 0.5714285714285714 0.6153846153846153
+
+
+2095.txt
+['bifurcation', 'biochemical system', 'enzymatic reaction', 'enzyme-mediated reaction', 'metabolite concentration', 'nonlinear dependency', 'ordinary differential equation', 'saddle connection', 'saturation kinetics', 'stable limit cycle']
+['ordinary differential equation', 'maximum enzyme activity', 'stable limit cycle', 'limit cycle', 'global stability', 'saddle connection', 'canard explosion', 'subsequent disappearance', 'saturation kinetics', 'metabolite concentration', 'nonlinear dependency', 'nonnegative data', 'distinct response', 'reaction rate', 'enzymatic reaction', 'global bifurcation', 'attracting set', 'amplitude oscillation', 'dynamical system', 'unbounded solution', 'biochemical system']
+0.38095238095238093 0.8 0.5161290322580645
+
+
+2097.txt
+['circuit analysis', 'computer network analysis', 'minimal path', 'spanning tree', 'undirected graph']
+['minimal path', 'undirected graph', 'computer network', 'circuit analysis', 'structured approach', 'node pair', 'structural mps']
+0.42857142857142855 0.6 0.5
+
+
+2103.txt
+['addiction', 'electronic cash', 'internet gambling', 'market opportunity', 'psychology', 'social impact', 'technological development']
+['main social concern', 'social impact', 'market opportunity', 'potential concern', 'empirical study', 'gambling offline', 'technological development', 'gambling', 'potential']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+2112.txt
+['allan variance', 'fractal brownian motion', 'frequency response', 'noise filtering', 'radio engineering', 'statistical analysis', 'usa metrology community', 'white noise']
+['fractal brownian motion noise filtering', 'usa metrology community', 'statistical analysis', 'voluminous literature', 'radio engineering', 'require knowledge', 'frequency response', 'accurate observation', 'ieee trans', 'simple method', 'allan variance', 'allan method']
+0.4166666666666667 0.625 0.5
+
+
+2113.txt
+['continuous convex-programming algorithm', 'convex optimization', 'exact penalty function', 'ideal sliding mode']
+['exact penalty function', 'convex optimization', 'characteristic', 'continuous']
+0.5 0.5 0.5
+
+
+2116.txt
+['communication medium', 'computational cluster', 'computational process', 'dynamic characteristic', 'dynamic control', 'metacomputational medium', 'optimal strategy', 'scalable resource', 'software application', 'static scaling', 'vector criterion']
+['static scaling', 'prior change', 'vector criterion', 'software application', 'communication medium', 'computational cluster', 'basic set', 'metacomputational medium', 'real time', 'dynamic control', 'scalable resource', 'dynamic characteristic']
+0.75 0.8181818181818182 0.7826086956521738
+
+
+2119.txt
+['adjacency matrix', 'branch point', 'heterogeneous territory', 'stepwise optimization algorithm', 'terminal point', 'transport net', 'transport route', 'tree-like network']
+['stepwise optimization algorithm', 'transport net', 'optimal solution', 'adjacency matrix', 'transport route', 'algorithm']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+2121.txt
+['complex technical system', 'control system', 'flexibility analysis', 'fuzzy mathematical model', 'optimal design', 'partial uncertainty', 'structural flexibility']
+['fuzzy mathematical model', 'complex technical system', 'control system', 'computation experiment', 'initial physical', 'internal factor', 'technological data', 'partial uncertainty', 'structural flexibility', 'flexibility analysis']
+0.6 0.8571428571428571 0.7058823529411764
+
+
+2127.txt
+['bezout matrix identity', 'constructive system embedding', 'determinate system', 'euclidean algorithm', 'polynomial equation']
+['bezout matrix identity', 'constructive system embedding', 'euclidean algorithm', 'class', 'generalization', 'form']
+0.5 0.6 0.5454545454545454
+
+
+2138.txt
+['discrete system', 'iterative restriction algorithm', 'multistep control process', 'optimal control', 'reachability set', 'upper estimate']
+['multistep control process', 'optimal control', 'upper estimate', 'reachability set']
+1.0 0.6666666666666666 0.8
+
+
+2139.txt
+['distribution parameter', 'generalized confidence set', 'normally distributed random vector', 'statistically indeterminate random vector']
+['distributed random vector', 'generalized confidence set', 'confidence estimate', 'standard method', 'detailed analysis', 'exact estimate', 'distribution parameter', 'set', 'parameter']
+0.2222222222222222 0.5 0.30769230769230765
+
+
+2141.txt
+['matrix transfer function', 'multivariable linear system', 'reduced observer control', 'reduced plant state observer design', 'state vector', 'system embedding']
+['nonzero initial condition', 'entire constructive class', 'matrix transfer function', 'multivariable linear system', 'matrix equation', 'system embedding', 'desired response', 'control input', 'system']
+0.3333333333333333 0.5 0.4
+
+
+2143.txt
+['quantum computer', 'solid-state device']
+['solid science', 'lab experiment', 'quantum computer', 'practical device']
+0.25 0.5 0.3333333333333333
+
+
+2144.txt
+['customer list', 'disclosure', 'privacy abuse', 'privacy policy']
+['commercial concern', 'personal data', 'dotcom company', 'failing company', 'privacy abuse', 'customer list', 'list', 'precedence']
+0.25 0.5 0.3333333333333333
+
+
+2149.txt
+['corporate crisis management', 'firewall log', 'security crisis management', 'security event']
+['corporate crisis management', 'security crisis', 'specific incident', 'firewall log', 'logical step']
+0.4 0.5 0.4444444444444445
+
+
+2162.txt
+['boolean algebra', 'cardinal invariant', 'free product', 'homomorphic image', 'prescribed behaviour', 'ultraproducts', 'zfc']
+['prescribed behaviour', 'cardinal invariant', 'free product', 'closed subspace', 'homomorphic image', 'topological density', 'construction', 'family']
+0.5 0.5714285714285714 0.5333333333333333
+
+
+2164.txt
+['e-commerce', 'electronic signatures regulations 2002', 'european electronic signatures directive', 'legal framework']
+['european electronic signatures directive', 'certification service providers', 'electronic signatures regulations', 'electronic signature', 'english law', 'legal framework', 'consultation period', 'late development', 'significance', 'author', 'unconvincing']
+0.18181818181818182 0.5 0.26666666666666666
+
+
+2171.txt
+['cd-rom', 'electronic storage', 'file archive', 'file scanning', 'law society rule', 'legal file', 'paperless office']
+['law society rule', 'orang utans', 'future reference', 'electronic medium', 'paperless office', 'legal file', 'stored file', 'file archive', 'electronic storage', 'site', 'loss', 'deterioration']
+0.4166666666666667 0.7142857142857143 0.5263157894736842
+
+
+2175.txt
+['business experience', 'customer service', 'legal firm', 'proactive updating', 'return on investment', 'technical skill', 'web site']
+['web site firm staff', 'proven track record', 'excellent customer service', 'legal firm', 'business experience', 'key test', 'technical skill', 'skill', 'paper', 'breadth']
+0.3 0.42857142857142855 0.3529411764705882
+
+
+2176.txt
+['law firm web site', 'web strategy']
+['law firm web site', 'web strategy', 'standard view', 'particular hurdle', 'awkward', 'people']
+0.3333333333333333 1.0 0.5
+
+
+2180.txt
+['data interchange model', 'health checkup data exchange', 'health status assessment', 'health-checkup data markup language', 'numerical lab data', 'sgml', 'summary finding']
+['standard generalized markup language', 'health status assessment', 'numerical lab data', 'health checkup facility', 'efficient electronic exchange', 'standard protocol', 'summary finding', 'feasibility study', 'textual data']
+0.3333333333333333 0.42857142857142855 0.375
+
+
+2183.txt
+['earning organisation', 'emotional attachment', 'knowledge-based structure', 'organisational commitment', 'performance factor', 'productivity', 'staff turnover']
+['contemporary environment adopt', 'common feature inherent', 'performance related factor', 'organisational performance', 'organisational commitment', 'substantial promise', 'substantial body', 'competitive position', 'typical form', 'emotional attachment', 'business enterprise', 'staff turnover', 'knowledge management', 'organisational structure']
+0.21428571428571427 0.42857142857142855 0.2857142857142857
+
+
+2188.txt
+['active power flow', 'adjacent generator', 'affine form', 'dc link', 'differential geometric theory', 'dual-infeed hybrid ac/dc system', 'generator dynamic equation', 'global linearization method', 'hvdc system', 'hybrid ac/dc power system', 'inverter', 'local feedback', 'multi-machine ac power system', 'nonlinear control strategy', 'nonlinear modulation strategy', 'rectifier ac bus', 'transient stability', 'variable admittance']
+['traditional generator dynamic equation', 'nonlinear modulation strategy', 'differential geometric theory', 'rectifier ac bus', 'active power flow', 'nonlinear control strategy', 'global linearization method', 'ac power system', 'ac system', 'dc power', 'adjacent generator', 'control variable', 'dc link', 'local feedback', 'transient stability']
+0.6666666666666666 0.5555555555555556 0.606060606060606
+
+
+237.txt
+['consortial purchasing model', 'international library consortium']
+['consortial purchasing model', 'resurgent consortial movement', 'future library consortium', 'international coalition', 'common consortial', 'distinguish consortium', 'north america', 'positive start', 'key factor', 'movement', 'organization', 'major']
+0.08333333333333333 0.5 0.14285714285714285
+
+
+252.txt
+['auditable record', 'availability monitoring', 'downtime', 'email alert', 'external monitoring', 'failure pattern discovery', 'freshwater software siteseer', 'internet connection', 'mercury interactive activewatch', 'pager alert', 'performance monitoring', 'periodic report', 'remote location', 'uptime tracking', 'web site']
+['siteseer every web admin', 'web site', 'external monitoring', 'auditable record', 'remote location', 'performance monitoring', 'remote host', 'custom software', 'key factor', 'discover pattern', 'periodic report', 'internet connection', 'percent uptime', 'siteseer', 'site', 'internet']
+0.4375 0.4666666666666667 0.45161290322580644
+
+
+254.txt
+['networking', 'reliability', 'web infrastructure', 'web performance', 'web site']
+['web performance monitoring', 'web site', 'complete view', 'optimal performance', 'web infrastructure', 'infrastructure', 'reliability', 'insight']
+0.375 0.6 0.4615384615384615
+
+
+262.txt
+['archival descriptive standard', 'archival program', 'diffusion of innovation', 'ead adoption', 'ead implementation', 'ead program', 'encoded archival description', 'funding', 'institutional goal', 'regular repository function', 'staffing']
+['regular repository function', 'encoded archival description', 'institutional goal', 'pilot survey', 'ead adoption', 'ead program', 'ead implementation', 'survey']
+0.75 0.5454545454545454 0.631578947368421
+
+
+264.txt
+['archival imagination', 'archival management', 'archival profession', 'archival theory', 'classical american archivist', 'david bearman', 'electronic record', 'graduate archival education', 'record keeping', 'schellenberg']
+['graduate archival education', 'classical american archivist', 'archival profession', 'archival theory', 'archival management', 'continued consideration', 'lasting impact', 'electronic record', 'imagination', 'record', 'form']
+0.5454545454545454 0.6 0.5714285714285713
+
+
+266.txt
+['atomistic resolution', 'electrostatic potential', 'fuzzy set theory', 'hydrogen bond density', 'hydrophilicity', 'lipophilicity', 'local feature', 'local lipophilicity/hydrophilicity', 'model approach', 'molecular complementarity', 'molecular property', 'molecular surface', 'overlapping patch', 'partial similarity', 'patch representation', 'pattern generation', 'pattern recognition strategy', 'segmented surface', 'topographical property']
+['hydrogen bond density', 'pattern recognition strategy', 'characteristic local feature', 'pattern generation', 'electrostatic potential', 'molecular complementarity', 'partial similarity', 'atomistic resolution', 'subsequent article', 'model approach', 'topographical property']
+0.8181818181818182 0.47368421052631576 0.6
+
+
+268.txt
+['complex molecule', 'conformational space', 'correlation matrix', 'molecular conformation', 'molecular coordinate', 'multidimensional structural characteristic', 'multiple correlation analysis', 'protein folding trajectory', 'region of interest']
+['protein folding trajectory', 'multidimensional structural characteristic', 'related conformational space', 'diverse set', 'molecular conformation', 'complex molecule', 'multiple correlation', 'specific region', 'correlation analysis']
+0.4444444444444444 0.4444444444444444 0.4444444444444444
+
+
+27.txt
+['computing with word', 'extension principle', 'formal model', 'fuzzy automaton', 'fuzzy subset', 'input alphabet', 'pushdown automaton']
+['like classical automaton', 'word classical automaton', 'fuzzy subset', 'input alphabet', 'input symbol', 'extra computation', 'extension principle', 'principle', 'amount', 'price', 'process']
+0.2727272727272727 0.42857142857142855 0.33333333333333326
+
+
+283.txt
+['alien rescue', 'business field', 'cognitive support', 'cognitive tool', 'educational research', 'formative evaluation', 'instructional strategy', 'k-12 classroom', 'medical field', 'middle school', 'middle school science', 'pbl', 'problem-based hypermedia learning environment', 'rich knowledge base', 'scientific investigation', 'sixth grader', 'space science']
+['innovative hypermedia product', 'texas essential knowledge', 'national science standards', 'hypermedia learning environment', 'middle school science', 'middle school', 'knowledge base', 'space science', 'instructional strategy', 'formative evaluation', 'current educational', 'cognitive support', 'cognitive tool', 'business field', 'scientific investigation', 'science', 'learning']
+0.5294117647058824 0.5294117647058824 0.5294117647058824
+
+
+295.txt
+['academic library hour', 'arl library', 'association for research libraries', 'integrated post secondary education data system', 'ipeds survey respondent', 'operation/service hour']
+['ipeds survey respondent', 'service hour decision', 'academic library hour', 'reference hour', 'article survey', 'national standard', 'arl library', 'library', 'article']
+0.3333333333333333 0.5 0.4
+
+
+30.txt
+['fuzzy modeling', 'membership function', 'parameter identification algorithm', 'qualitative modeling', 'rule base reduction', 'rule creation', 'sugeno-yasukawa method', 'trapezoid approximation']
+['improved parameter identification algorithm', 'qualitative modeling investigates sugeno', 'rule base reduction', 'qualitative fuzzy', 'rule creation', 'trapezoid approximation', 'membership function', 'sample data', 'comparative analysis', 'implementable solution', 'time requirement']
+0.36363636363636365 0.5 0.4210526315789474
+
+
+301.txt
+['academic library', 'campus community group', 'community partnership', 'disabled student', 'distance education student', 'public library']
+['distance education student', 'public library', 'community partnership', 'eyes project', 'campus community', 'link', 'effort', 'lot', 'focus']
+0.3333333333333333 0.5 0.4
+
+
+311.txt
+['bottom-up design activity', 'constructive induction', 'emergent phenomenon', 'inductive design process', 'information architecture design', 'internal theory', 'user experience']
+['basic design component', 'inductive design process', 'emergent phenomenon', 'constructive induction', 'user attribute', 'user experience', 'design process', 'inductive process', 'representational framework', 'design activity', 'ia design']
+0.36363636363636365 0.5714285714285714 0.4444444444444444
+
+
+313.txt
+['computer science', 'graphic design', 'information architect', 'information architecture education', 'information organization', 'pedagogical approach', 'professional education', 'professional practice', 'usability study']
+['key content', 'predictable path', 'theoretical concept', 'computer science', 'professional practice', 'balance instruction', 'interdisciplinary approach', 'pedagogical approach', 'usability study', 'professional education', 'architecture study', 'design skill', 'architecture curriculum', 'design', 'degree', 'organization']
+0.3125 0.5555555555555556 0.39999999999999997
+
+
+315.txt
+['american adult market', 'baseline data', 'consumer model', 'decision criterion', 'internet', 'longitudinal research', 'national random digit dialing telephone survey', 'public library', 'public library']
+['national random digit dialing telephone survey', 'american adult market', 'current consumer market', 'decision criterion people', 'consumer model', 'consumer choice', 'policy development', 'data suggest', 'baseline data', 'potential impact', 'internet service', 'provider', 'demographic', 'differentiation', 'complementary', 'reason', 'longitudinal']
+0.23529411764705882 0.4444444444444444 0.30769230769230765
+
+
+316.txt
+['convolution model', 'discrete score', 'dual lotka law', 'irregular fractional frequency distribution']
+['dual lotka law fractional frequency distribution', 'theoretical fractional frequency distribution', 'simple lotka law', 'famous historical law', 'close agreement', 'discrete score', 'total count', 'convolution model', 'lotka', 'easy', 'practical']
+0.18181818181818182 0.5 0.26666666666666666
+
+
+317.txt
+['citation index usage', 'digital democracy', 'digital ochlocracy', 'ghost consensus method', 'internet query statistic', 'internet search system', 'linear programming', 'majority opinion', 'search result', 'world wide web']
+['internet query statistic', 'search result', 'unavoidable shortcoming', 'effective instrument', 'average intellectual', 'relevant document', 'majority opinion', 'underlying assumption', 'digital ochlocracy', 'mathematical mechanism', 'linear programming', 'web document', 'cultural level', 'dominant method', 'user', 'cultural']
+0.3125 0.5 0.38461538461538464
+
+
+319.txt
+['degradation test', 'fluorescent lamp', 'highly reliable product', 'identification rule', 'inspection frequency', 'maximum probability of incorrect decision', 'minimum probability of correct decision', 'optimal test plan', 'resolution iii design', 'screening experiment', 'termination time', 'wiener process']
+['optimum test plan', 'total experimental cost', 'resolution iii experiment', 'degradation test', 'screening experiment', 'optimal setting', 'wiener process', 'correct identification', 'inspection frequency', 'sample size', 'systematic approach', 'fluorescent lamp', 'minimum probability', 'correct decision']
+0.35714285714285715 0.4166666666666667 0.3846153846153846
+
+
+330.txt
+['computer security', 'eight-character password', 'five-character password', 'length restriction', 'proactive password checking', 'proactive password restriction', 'user authentication']
+['minimum character length reduces crackability', 'proactive password checking', 'required length', 'length restriction', 'computer system', 'weak method', 'acceptable password', 'computer security', 'identification', 'resistant', 'result', 'condition']
+0.25 0.42857142857142855 0.3157894736842105
+
+
+347.txt
+['consulting practice', 'inc', 'oas', 'opportunity analysis study', 'or/ms', 'pros revenue management', 'revenue management concept', 'rm system', 'software development practice', 'software system']
+['software development practice', 'revenue management concept', 'opportunity analysis study', 'pros revenue management', 'software system', 'design department', 'business situation', 'nonairline industry']
+0.625 0.5 0.5555555555555556
+
+
+357.txt
+['ascoli-arzela type theorem', 'cartesian product', 'cauchy problem', 'compact-convex fuzzy set', 'dual space', 'isometric embedding', 'level-continuous fuzzy set', 'real continuous function', 'real separable banach space', 'unit ball']
+['real separable banach space', 'real continuous function', 'dual space', 'compact subset', 'unit ball', 'cartesian product', 'isometric embedding']
+0.8571428571428571 0.6 0.7058823529411764
+
+
+359.txt
+['binary relation', 'equivalence relation', 'finite universe', 'k-step neighborhood system', 'neighborhood operator system', 'rough set approximation space']
+['rough set approximation space', 'rough set approximation operator', 'finite universe', 'standard notion', 'equivalence relation', 'family', 'properties', 'pawlak']
+0.375 0.5 0.42857142857142855
+
+
+361.txt
+['connection', 'economic study', 'geographic proximity', 'minimal closed subset', 'pretopological approach', 'pseudoclosure', 'scientific collaboration', 'structural analysis']
+['scientific collaboration', 'sample setting', 'geographic proximity', 'economic study', 'pretopological approach', 'methodological approach', 'addition', 'explanation', 'aim', 'impact']
+0.4 0.5 0.4444444444444445
+
+
+363.txt
+['control loop', 'controller decision', 'critical time', 'observation', 'synthetic simultaneity', 'time delay']
+['element introduces time delay', 'time delay', 'critical time', 'simple approach', 'controlled system', 'control loop', 'time']
+0.42857142857142855 0.5 0.4615384615384615
+
+
+365.txt
+['federal maritime and hydrography agency', 'hydrodynamic model', 'kohonen network', 'learning vector', 'meteorological situation', 'near neighbor model', 'neuron', 'oceanographic situation', 'persistence model', 'sea level forecast service', 'sea level prediction', 'self-organizing feature map', 'statistical model', 'supervised learning', 'u-matrices', 'verbal forecast', 'visualization']
+['sea level forecast service', 'near neighbor model', 'unsupervised learning procedure', 'verbal forecast', 'learning procedure', 'functional relationship', 'federal maritime', 'oceanographic situation', 'hydrography agency', 'statistical model', 'neural model', 'persistence model', 'hydrodynamic model', 'kohonen network', 'prognosis', 'record']
+0.5 0.47058823529411764 0.48484848484848486
+
+
+367.txt
+['human intellectual activity', 'information processing', 'information retrieval', 'language processing', 'linguistic activity', 'meaning processing', 'travel consultation dialogue system', 'user utterance understanding']
+['travel consultation dialogue system', 'human intellectual activity', 'human intelligence', 'linguistic activity', 'language processing', 'system', 'simulation', 'retrieve', 'user']
+0.4444444444444444 0.5 0.47058823529411764
+
+
+369.txt
+['global internet', 'nissan motor company trademark', 'nissan.com internet domain name', 'trademark dispute', 'trademark law', 'uzi nissan']
+['geographic consideration', 'greedy opportunist', 'global internet', 'legal battle', 'internet domain', 'trademark law', 'uzi nissan', 'nissan motor']
+0.375 0.5 0.42857142857142855
+
+
+370.txt
+['commercial law enforcement', 'consumer interest protection', 'internet activity', 'internet site blocking', 'internet treaty', 'lawsuit', 'legal jurisdiction', 'national government', 'online activity', 'public order protection']
+['normal business activity', 'local jurisdiction', 'overseas lawsuit', 'service provider', 'legal jurisdiction', 'online activity', 'commercial law', 'real law', 'virtual border', 'national government', 'level domain', 'internet activity', 'internet treaty', 'law', 'government', 'border']
+0.3125 0.5 0.38461538461538464
+
+
+373.txt
+['digitizing tablet', 'handheld computer', 'handwritten text', 'microsoft', 'pen-based computing', 'tablet pc', 'windows xp operating system']
+['pocket pc operating system', 'personal digital assistant', 'tablet pc', 'windows xp', 'digitizing tablet', 'handwritten text', 'handwritten', 'variant', 'pdas', 'device']
+0.3 0.42857142857142855 0.3529411764705882
+
+
+375.txt
+['adaptive second stage', 'adaptive source enhancement', 'electromagnetic vector sensor', 'maximum snr', 'multiple broadband source separation', 'multiple broadband source tracking', 'parallel implementation', 'parallel spatial processor', 'preprocessing stage', 'signal source location', 'signal-to-noise ratio', 'single em vector sensor', 'snr maximization', 'uncorrelated source']
+['late source parameter estimate', 'conventional adaptive beamforming', 'electromagnetic vector sensor', 'desired signal location', 'multiple broadband source', 'parallel spatial processor', 'spatial processor', 'parallel implementation', 'individual source', 'uncorrelated source', 'maximum snr', 'preprocessing stage', 'location', 'advantage']
+0.42857142857142855 0.42857142857142855 0.42857142857142855
+
+
+376.txt
+['continuous-valued target state', 'dirichlet distribution', 'discrete-valued regime variable', 'finite state markov chain', 'hybrid system', 'maneuvering target tracking', 'marginal posterior distribution', 'multiple switching model', 'random transition probability', 'recursive state estimation', 'unknown transition probability']
+['multiple switching model', 'marginal posterior distribution', 'random transition probability', 'unknown transition probability', 'transition probability', 'dirichlet distribution', 'markov chain', 'standard algorithm', 'straightforward extension']
+0.5555555555555556 0.45454545454545453 0.5
+
+
+4.txt
+['insider investment', 'telecom industry']
+['crown castle international', 'cheap company stock', 'industry insider', 'insider buying', 'telecom industry', 'insider investment', 'nortel networks', 'nextel communications', 'cox communications', 'charter communications', 'airgate pcs']
+0.18181818181818182 1.0 0.3076923076923077
+
+
+541.txt
+['anxiety', 'binge eating disorder', 'body image disturbance', 'cognitive-behavior approach', 'multidimensional therapy', 'obesity', 'patient therapy', 'psychiatric symptom', 'psychonutritional group', 'residential weight control treatment', 'virtual reality']
+['residential weight control treatment', 'traditional weight reduction program', 'body image disturbance', 'binge eating disorder', 'body image attitude', 'multidimensional vr treatment', 'body image', 'body dissatisfaction', 'vr treatment', 'main goal', 'physical training', 'related construct', 'female binge', 'disorder symptomathology', 'outcome measure', 'short term', 'psychiatric symptom', 'multidimensional approach', 'multidimensional therapy', 'associated behavior', 'followup study', 'attitude']
+0.22727272727272727 0.45454545454545453 0.30303030303030304
+
+
+543.txt
+['acrophobia treatment', 'clinical treatment', 'exposure therapy', 'height phobia', 'patient anxiety', 'patient treatment', 'personal computer', 'psychotherapy', 'realistic virtual environment', 'therapeutic case', 'virtual reality therapy system', 'virtual scene']
+['unrealistic graphic scene', 'conventional vr system', 'realistic virtual environment', 'virtual scene', 'vr environment', 'virtual scenario', 'exposure therapy', 'personal computer', 'marked anxiety', 'fearful feeling', 'real situation', 'sophisticated technology', 'comparison result', 'clinical treatment', 'realistic', 'variety', 'fear', 'effectiveness']
+0.2777777777777778 0.4166666666666667 0.33333333333333337
+
+
+548.txt
+['air conditioning', 'energy efficiency']
+['energy efficient air', 'energy efficiency', 'air conditioning', 'global warming', 'julian brunnock']
+0.4 1.0 0.5714285714285715
+
+
+549.txt
+['cooling capacity', 'diffuser', 'displacement ventilation system', 'volumetric air supply rate']
+['volumetric air supply rate', 'displacement ventilation system', 'cooling capacity']
+1.0 0.75 0.8571428571428571
+
+
+551.txt
+['access privilege management', 'complex access privilege possession certification', 'key-lock technique', 'lock', 'lock conversion function', 'polymorphic access right', 'protected object', 'protection system', 'selective revocation']
+['lock conversion function', 'complex access privilege', 'selective revocation', 'protection system', 'polymorphic access', 'single lock', 'multiple lock', 'protected object', 'object lock', 'technique']
+0.4 0.4444444444444444 0.4210526315789474
+
+
+565.txt
+['chemical vapor deposition', 'film quality', 'material fabrication', 'operational cost', 'optimization', 'parameter space mapping', 'precursor concentration', 'reactor gas flow rate', 'susceptor temperature', 'thin film growth', 'tin', 'titanium nitride film']
+['objective function characterizing film quality', 'reactor gas flow rate', 'strong global demand', 'steep descent method', 'vertical impinging jet', 'thin film production', 'thin film growth', 'parameter space mapping', 'thin film deposition', 'optimal operating condition', 'design turnaround time', 'quality requirement', 'film uniformity', 'cvd reactor', 'minimization algorithm', 'precursor concentration', 'material fabrication', 'numerical modeling', 'main feature', 'operational cost']
+0.3 0.5 0.37499999999999994
+
+
+566.txt
+['control system', 'controlled pulse keyhole', 'double-sided arc welding', 'energy density', 'laser welding process', 'process control', 'thick material welding']
+['inch thick square butt joint', 'pulsed keyhole dsaw system', 'thick material welding', 'laser welding process', 'traditional arc welding', 'arc welding process', 'arc welding', 'arc concentration', 'control system', 'welding industry', 'single pas', 'current practice', 'multiple pass']
+0.23076923076923078 0.42857142857142855 0.3
+
+
+574.txt
+['bifurcation', 'correct vessel', 'correction', 'lesion quantification', 'quantitative coronary artery analysis', 'sidebranch pathline', 'user-defined endpoint', 'user-defined startpoints', 'vessel segment', 'wavefront propagation algorithm', 'wavefront propagation principle', 'wavepath method', 'x-ray angiogram']
+['quantitative coronary artery analysis', 'wavefront propagation principle', 'wavefront propagation algorithm', 'lesion quantification', 'wavepath algorithm', 'correct vessel', 'vessel segment', 'validation study', 'sidebranch pathline', 'wavepath method', 'pathline approach', 'analysis']
+0.6666666666666666 0.6153846153846154 0.64
+
+
+58.txt
+['additive noise', 'automatic order selection', 'local frequency-band information', 'missing feature theory', 'modeling', 'noise characteristic', 'noise reduction technique', 'noisy band', 'nonstationary noise', 'partial feature stream corruption', 'partial frequency-band corruption', 'partial real-world noise', 'probabilistic union model', 'robust speech recognition', 'speaker-independent connected digit recognition', 'stationary noise', 'tidigits database', 'time-varying band characteristic']
+['conventional noise reduction technique', 'partial feature stream corruption', 'missing feature theory', 'robust speech recognition', 'speech recognition', 'digit recognition', 'random event', 'noisy band', 'previous method', 'tidigits database', 'corruption account', 'statistical approach', 'band characteristic', 'nonstationary noise', 'additive noise', 'noise characteristic', 'unexpected noise', 'model offer', 'stationary noise', 'theory', 'stationary']
+0.42857142857142855 0.5 0.4615384615384615
+
+
+59.txt
+['audio processing algorithm', 'convergence behavior', 'cross-correlation coefficient', 'deformed correlation', 'digital audio recording', 'discrete-time signal', 'dynamic behavior', 'efficient tracking', 'nonstationary signal', 'recursive formula', 'sinusoidal signal', 'stationary signal', 'stationary state', 'stereo music fragment', 'time-dependent correlation', 'tracking algorithm', 'warping operation']
+['stereo music fragment', 'simple warping operation', 'digital audio recording', 'classical result', 'dynamic behavior', 'convergence behavior', 'deformed version', 'square root', 'efficient tracking', 'actual correlation', 'deformed correlation', 'special attention', 'sinusoidal signal', 'nonstationary signal', 'correlation coefficient', 'formula lead', 'stationary signal', 'stationary']
+0.5 0.5294117647058824 0.5142857142857143
+
+
+602.txt
+['/sup 18/fdg-pet', 'f', 'image fusion', 'mri/ct', 'nasopharyngeal carcinoma', 'normal tissue sparing', 'oropharyngeal carcinoma', 'parotid gland', 'primary tumor', 'radiotherapy planning', 'simultaneous primary site recurrence', 'superficial tumor']
+['automatic multimodality image registration algorithm', 'nasopharyngeal carcinoma accurate diagnosis', 'simultaneous primary site recurrence', 'gross tumor volume', 'clinical target volume', 'normal tissue sparing', 'nasopharyngeal carcinoma', 'normal tissue', 'parotid sparing', 'target delineation', 'clinical presentation', 'clinical examination', 'nodal recurrence', 'superficial tumor', 'tumor extent', 'oropharyngeal carcinoma', 'gtv volume', 'disease entity', 'internal reference', 'lymph node', 'usual pattern']
+0.23809523809523808 0.4166666666666667 0.30303030303030304
+
+
+605.txt
+['distribution management system', 'germany', 'hamburg', 'hamburgische electricitats-werke', 'network management software', 'tekla oyj', 'xpower']
+['reliable electricity service', 'reliable network cheaply', 'system capacity requirement', 'distribution management system', 'network management software', 'management system', 'requirement catalog', 'network management', 'energy market', 'operating resource', 'prequalification phase', 'detailed tender', 'test program', 'tekla oyj', 'xpower platform', 'system', 'software', 'electricity']
+0.16666666666666666 0.42857142857142855 0.24
+
+
+608.txt
+['black box', 'didactic laboratory', 'final timing difference', 'global positioning system satellite constellation', 'internet', 'personal computer clock', 'software package', 'statistical sense', 'synch error', 'time server', 'utc timescale']
+['global positioning system satellite constellation', 'total synch error', 'minimum synch error', 'final timing difference', 'personal computer clock', 'personal computer', 'synch task', 'experimental verification', 'typical rms', 'utc timescale', 'timing station', 'statistical sense', 'didactic laboratory', 'software package']
+0.5 0.6363636363636364 0.56
+
+
+610.txt
+['autonomous power system', 'combined intelligent technique', 'competing technique', 'controller design', 'frequency control', 'frequency overshoot', 'fuel rack position control', 'fuzzy logic', 'generator speed control', 'genetic algorithm', 'load demand', 'neural network', 'overall dynamic performance', 'performance evaluation', 'power output regulation', 'single-area power system', 'transient oscillation', 'zero steady-state error']
+['fuel rack position control', 'intelligent load frequency controller', 'combined intelligent technique', 'autonomous power system', 'load demand', 'power system', 'system frequency', 'power output', 'frequency overshoot', 'transient oscillation', 'dynamic performance', 'shortest time', 'fuzzy logic', 'performance evaluation', 'neural network', 'genetic algorithm']
+0.625 0.5555555555555556 0.5882352941176471
+
+
+621.txt
+['bit allocation', 'mpeg-4 video coding', 'multiple video object', 'object-based rate allocation', 'rate-distortion encoding', 'variable temporal rate']
+['stable buffer level', 'target bit rate', 'variable temporal rate', 'multiple video object', 'bit allocation', 'object level']
+0.5 0.5 0.5
+
+
+623.txt
+['chinese lottery game', 'experimental result', 'house net hold', 'inverse problem', 'jackpot keno', 'jupiters network gaming', 'legal requirement', 'mathematical model', 'piecewise linear', 'probability', 'random number generator', 'simulation', 'stochastic binary search', 'stochastic recurrence', 'ternary domain split']
+['cbs college publishing', 'jupiters network gaming', 'ternary domain split', 'stochastic binary search', 'gaming regulation', 'net hold', 'net revenue', 'piecewise linear', 'desirable property', 'required development', 'experimental result', 'legal requirement', 'special algorithm', 'stochastic recurrence', 'queensland office', 'stochastic nature', 'mathematical model', 'simulation study', 'house', 'split']
+0.4 0.5333333333333333 0.4571428571428572
+
+
+631.txt
+['asymptotic variance', 'delta interval', 'effective dos', "fieller 's theorem", 'interval estimation', 'logistic dose-response curve', 'maximum likelihood estimator', 'median effective dose', 'modified fieller interval']
+['maximum likelihood estimator', 'median effective dose', 'interval estimation method', 'modified fieller interval', 'effective dos', 'asymptotic variance', 'adjusted fieller', 'adjusted form', 'af interval', 'curve', 'property']
+0.45454545454545453 0.5555555555555556 0.5
+
+
+650.txt
+['bullseye', 'data mining', 'database mining', 'descriptor hyperspace exploration', 'fitness function', 'fitness score', 'fuzzy clustering method', 'fuzzy logic', 'genetic algorithm', 'local convergence', 'molecular descriptor selection', 'odor category', 'olfactory compound', 'stepwise approach', 'test set', 'training set']
+['descriptor hyperspace exploration', 'molecular descriptor selection', 'fuzzy clustering method', 'data set class', 'descriptor selection', 'fuzzy logic', 'selection power', 'data mining', 'real data', 'mining procedure', 'odor category', 'olfactory compound', 'relevant subset', 'stepwise approach']
+0.5714285714285714 0.5 0.5333333333333333
+
+
+68.txt
+['analyst developer model', 'conceptual data modeling', 'database', 'future effort', 'human factor', 'user-analyst model']
+['strong theoretical foundation', 'conceptual data modeling', 'analyst developer model', 'strong role', 'conceptual model', 'system analyst', 'future effort', 'future empirical', 'extended framework', 'analyst', 'framework']
+0.2727272727272727 0.5 0.3529411764705882
+
+
+687.txt
+['attenuation field', 'cbp algorithm', 'composite region', 'composite structure', 'computerised tomography', 'convolution back projection', 'engineering application', 'filter', 'image reconstruction', 'reconstruction error', 'simulated specimen']
+['engineering application', 'attenuation field', 'composite region', 'quantitative assessment', 'study reveal', 'numerical result', 'composite structure', 'reconstruction error', 'image reconstruction', 'simulated specimen', 'cbp algorithm']
+0.7272727272727273 0.7272727272727273 0.7272727272727273
+
+
+702.txt
+['dc filter rating', 'device count', 'facts controller', 'high-power converter topology comparison', 'inverter', 'multilevel topology', 'multipoint clamped topology', 'multipulse topology', 'statcom', 'static compensator', 'static synchronous series compensator', 'switching frequency', 'unified power flow controller', 'upfc']
+['flexible ac transmission system', 'static synchronous series compensator', 'interline power flow controller', 'unified power flow controller', 'active power transfer', 'dc filter rating', 'dc capacitor filter', 'power converter topology', 'dc link', 'capacitor sizing', 'multilevel topology', 'multipulse topology', 'device count', 'special arrangement', 'mpc converter', 'chain converter']
+0.375 0.42857142857142855 0.39999999999999997
+
+
+707.txt
+['multiple representation', 'plane geometry', 'proof', 'quadrilateral', 'vector algebra proof', 'vector mathematics']
+['geometry theorem vector mathematics', 'vector algebra proof', 'vector mathematics', 'vector proof', 'sophisticated proof', 'relative length', 'included angle', 'powerful proof', 'multiple representation', 'theorem', 'mathematics', 'representation', 'dimension', 'option']
+0.21428571428571427 0.5 0.3
+
+
+710.txt
+['general regression metamodel', 'independent variable', 'optimal run allocation', 'queuing system', 'regression function', 'simulation metamodel']
+['independent variable cheng', 'independent variable', 'regression metamodel', 'queuing system', 'regression function', 'explicit formula']
+0.5 0.5 0.5
+
+
+746.txt
+['child', 'immediate patient transfer', 'real-time echocardiogram interpretation', 'real-time pediatric echocardiogram transmission', 'remote diagnosis', 'remote patient management', 'single isdn line', 'suspected congenital heart disease', 'videoconferencing system', 'videotape review']
+['single integrated system digital network', 'suspected congenital heart disease', 'immediate patient transfer', 'videoconferencing system', 'remote management', 'echocardiogram interpretation', 'videotape review', 'remote diagnosis', 'normal diagnosis']
+0.5555555555555556 0.5 0.5263157894736842
+
+
+748.txt
+['arterial pressure', 'arterial vessel wall stiffness', 'baroreflex gain', 'cardiovascular functional status', 'cardiovascular parameter variation', 'clinical experiment', 'computer simulation', 'extended cardiovascular model', 'hemodynamics', 'homeostatic function', 'hypertensive situation', 'moderate dynamic exercise', 'normotensive case', 'pathological change', 'peripheral vascular resistance', 'physiological change', 'short-term regulation']
+['arterial vessel wall stiffness', 'peripheral vascular resistance', 'cardiovascular parameter variation', 'extended cardiovascular model', 'cardiovascular functional status', 'functional status', 'arterial pressure', 'simulation study', 'clinical data', 'clinical experiment', 'computer simulation', 'dynamic exercise', 'baroregulation function', 'baroreflex gain']
+0.6428571428571429 0.5294117647058824 0.5806451612903226
+
+
+77.txt
+['analytic model', 'cache', 'data entry', 'expiration time prediction', 'frequently accessed wireless data modeling', 'mobile network', 'response time reduction', 'simulation experiment', 'stale access probability', 'time-to-live interval', 'weak consistency', 'wireless communication cost', 'wireless data access', 'wireless handheld device']
+['weakly consistent data access mechanism', 'wireless communication cost', 'wireless data access', 'original data entry', 'wireless handheld device', 'handheld device', 'stale access', 'mobile network', 'simulation experiment', 'weak consistency', 'response time']
+0.5454545454545454 0.42857142857142855 0.4799999999999999
+
+
+776.txt
+['asl interpreter', 'communication context', 'deaf client', 'deafness', 'hard of hearing client', 'hearing impairment', 'information access', 'sightreading', 'tty communication']
+['suggested reading', 'annotated list', 'asl interpreter', 'tty communication', 'hearing impairment', 'particular reference', 'communication context', 'access']
+0.5 0.4444444444444444 0.47058823529411764
+
+
+780.txt
+['canada', 'canadian implementation', 'computer security', 'consumer privacy', 'electronic cash', 'global market', 'long-term transformation', 'low-value payment', 'major bank', 'mondex', 'monetary policy', 'payment mechanism', 'publicity campaign', 'science and technology study', 'short-term failure', 'sociotechnical system']
+['extensive publicity campaign', 'electronic cash between', 'physical cash', 'north america', 'global market', 'sociotechnical system', 'major bank', 'computer security', 'monetary policy', 'field test', 'consumer privacy', 'complex setting', 'payment system', 'payment mechanism', 'comprehensive experiment', 'canadian implementation', 'technology study', 'experiment', 'failures']
+0.42105263157894735 0.5 0.45714285714285713
+
+
+782.txt
+['community activity', 'community technology', 'computer network', 'computer networking', 'conflicting answer', 'democratic process', 'democratic rationalization', 'diverse ideology', 'human agency', 'human development', 'human value', 'intellectual tradition', 'internet activity', 'optimistic observer', 'stable long-term group association', 'technical sphere', 'technical system', 'technology criticism', 'virtual community']
+['influential intellectual tradition', 'technical system fly', 'support community activity', 'technical sphere', 'optimistic observer', 'diverse ideology', 'fundamental human', 'broad sense', 'internet activity', 'widespread skepticism', 'democratic rationalization', 'theoretical debate', 'epsilon neralize', 'democratic process', 'human agency', 'particular feature', 'software prevalent', 'computer networking', 'technology criticism', 'human development', 'central question']
+0.47619047619047616 0.5263157894736842 0.5
+
+
+783.txt
+['broadcast medium', 'centralized control', 'democratic institution', 'europe', 'european average', 'european union', 'france', 'freedom of speech', 'germany', 'internet activity', 'internet development', 'internet hostcount', 'italy', 'legal decision', 'mainstream medium', 'medium control', 'network society', 'regulatory decision', 'uk', 'worldwide average']
+['top ten country', 'network society', 'regulatory decision', 'democratic institution', 'mainstream medium', 'considerable change', 'european union', 'internet development', 'internet hostcount', 'internet activity', 'medium control', 'centralized control', 'internet', 'view', 'desire', 'restriction']
+0.625 0.5 0.5555555555555556
+
+
+794.txt
+['bicolor leaf', 'double-bracket flow discretization', 'isospectral flow', 'lie-algebraic equation', 'magnus series', 'taylor expansion']
+['individual expansion term', 'taylor expansion', 'magnus series', 'bicolor leaf', 'rooted tree', 'isospectral flow', 'term']
+0.5714285714285714 0.6666666666666666 0.6153846153846153
+
+
+795.txt
+['addition', 'integration', 'l/sub infinity /-norm', 'low bound', 'multiplication', 'pfaffian function', 'polynomial', 'rational function', 'real analytic function']
+['real analytic function', 'low bound', 'rational coefficient', 'pfaffian function', 'rational function', 'rational', 'approximation', 'polynomial', 'infinity']
+0.5555555555555556 0.5555555555555556 0.5555555555555556
+
+
+796.txt
+['jacobian matrix', 'm-adic topology', "newton 's iterator", 'polynomial equation system solver', 'quadratic convergence', 'quadratic newton iteration', 'system with multiplicity']
+['polynomial equation system solver', 'quadratic newton iteration', 'popular component', 'restrictive factor', 'jacobian matrix', 'smooth situation', 'multiplicity newton', 'efficient iterator', 'newton', 'multiplicity']
+0.3 0.42857142857142855 0.3529411764705882
+
+
+798.txt
+['clio database', 'cliorequest', 'clioweb', 'data management', 'faculty', 'interlibrary loan department', 'management system', 'patron satisfaction', 'remote interconnectivity', 'staff satisfaction', 'student', 'user-friendly method', 'washington college', 'workflow efficiency']
+['staff satisfaction faced', 'interlibrary loan system', 'management system', 'remote interconnectivity', 'student satisfaction', 'washington college', 'data management', 'workflow efficiency', 'library staff', 'clio database', 'increased demand', 'method']
+0.5 0.42857142857142855 0.4615384615384615
+
+
+8.txt
+['bankrupt', 'global crossing', 'hutchison telecommunications', 'singapore technologies']
+['bankrupt carrier intact', 'hutchison telecommunications', 'singapore technologies', 'investor']
+0.5 0.5 0.5
+
+
+800.txt
+['electronic reserve system', 'long island university brooklyn campus library']
+['electronic reserve system', 'electronic reserve', 'brooklyn campus', 'island university']
+0.25 0.5 0.3333333333333333
+
+
+802.txt
+['academic library', 'copyright compliance', 'e-reserves environment', 'electronic reserve', 'faculty', 'legislation', 'librarianship', 'library service', 'litigation', 'negotiation', 'permission fee', 'student']
+['electronic reserve electronic reserve', 'definitive answer', 'permission fee', 'academic library', 'copyright compliance', 'library service', 'service', 'deal', 'litigation', 'legislation', 'particular', 'application', 'debate']
+0.46153846153846156 0.5 0.48000000000000004
+
+
+805.txt
+['active pitch control', 'aerodynamics', 'closed circle system', 'control theory', 'digital simulation', 'drive train dynamic', 'fixed speed wind turbine system', 'horizontal axis wind turbine system', 'linear controller design', 'linear quadratic optimal feedback controller', 'linear system control theory', 'nonlinear equation', 'pitch angle control', 'wind turbine']
+['speed horizontal axis wind turbine system', 'linear quadratic optimal feedback controller', 'fixed speed wind turbine system', 'linear system control theory', 'closed circle system', 'modern control theory', 'active pitch control', 'pitch angle control', 'digital simulation result', 'wind turbine', 'wind speed', 'linear controller']
+0.5833333333333334 0.5 0.5384615384615384
+
+
+823.txt
+['aluminum alloy layer', 'curie temperature', 'dielectric layer', 'heat capacity', 'irradiation time', 'laser power', 'light focusing', 'magneto-optic recording medium', 'magneto-optical medium', 'maximum temperature', 'multilayer structure', 'static disk', 'tbfeco', 'tbfeco layer', 'thermal coefficient', 'thermal conductivity', 'thermal diffusion']
+['aluminum alloy layer', 'dielectric layer', 'heat capacity', 'curie temperature', 'multilayer structure', 'thermal diffusion', 'static disk', 'thermal coefficient']
+1.0 0.47058823529411764 0.6399999999999999
+
+
+828.txt
+['sprint pcs', 'verizon wireless', 'wireless carrier industry']
+['wireless carrier industry', 'surprising shift', 'market share', 'verizon wireless', 'subscriber addition']
+0.4 0.6666666666666666 0.5
+
+
+829.txt
+['kerman telephone', 'rural utilities service', 'santera systems', 'switching']
+['major strategy overhaul', 'capital expense budget', 'rural utilities service', 'kerman telephone co', 'complete reversal', 'replacement box', 'equipment list', 'santera systems', 'independent telco', 'deal']
+0.2 0.5 0.28571428571428575
+
+
+837.txt
+['computer science', 'cs classroom environment', 'cs course content', 'gender-equitable classroom', 'nurturing environment', 'pedagogy', 'woman student']
+['cs classroom environment', 'nurturing environment', 'considerable attention', 'computer science', 'woman student', 'creation', 'inviting', 'field']
+0.5 0.5714285714285714 0.5333333333333333
+
+
+838.txt
+['child', 'computer game', 'culture of computing', 'educational software', 'male adolescent culture', 'sex difference', 'teacher', 'woman']
+['apparent sex difference', 'noticeable sex difference', 'male adolescent culture', 'superb opportunity', 'cultural framework', 'everyday life', 'pool hall', 'war game', 'computer efficacy', 'computer game', 'educational software', 'software', 'teacher', 'programs', 'uninteresting']
+0.26666666666666666 0.5 0.3478260869565218
+
+
+839.txt
+['career stereotyping', 'misperceptions', 'personal ability', 'politics', 'professional computing career', 'woman']
+['professional computing career', 'female colleague', 'personal ability', 'individual difference', 'common thread', 'common reason', 'substantive reason', 'career stereotyping', 'setting', 'versatility', 'politics', 'people']
+0.3333333333333333 0.6666666666666666 0.4444444444444444
+
+
+850.txt
+['computer science degree program', 'cultural expectation', 'graduate level', 'technical skill', 'undergraduate level', 'woman student recruitment', 'woman student retention']
+['computer science degree program', 'cultural expectation', 'technical skill', 'effective step', 'graduate level', 'college level', 'encouraging woman', 'woman student', 'stanford', 'strategy']
+0.4 0.5714285714285714 0.47058823529411764
+
+
+857.txt
+['computer science', 'graduate degree', 'mills college', 'minority', 'professional employment', 'reentry program', 'student', 'uc berkeley', 'woman']
+['liberal art institution', 'computer science field', 'computer scientist', 'alternative source', 'rich source', 'professional employment', 'graduate degree', 'technical background', 'uc berkeley', 'undergraduate level', 'low level', 'mills college', 'reentry program', 'program share']
+0.35714285714285715 0.5555555555555556 0.43478260869565216
+
+
+858.txt
+['computer science', 'female participation', 'gender gap', 'undergraduate computing major', 'woman recruitment', 'woman retention']
+['undergraduate computing major', 'undergraduate computer science', 'computer science', 'educational environment', 'female student', 'particular benefit', 'related discipline', 'graduate program', 'gender gap', 'female participation']
+0.4 0.6666666666666666 0.5
+
+
+862.txt
+['generalized maximum balanced flow problem', 'parameterized technique', 'polynomial algorithm', 'two-terminal network']
+['generalized maximum flow', 'parameterized technique', 'maximum absolute', 'main result', 'vertex set', 'rational instance', 'polynomial algorithm', 'gain gamma', 'arc set', 'efficient algorithm', 'vertex upsilon', 'arc', 'gamma', 'identical']
+0.14285714285714285 0.5 0.22222222222222224
+
+
+865.txt
+['backorders', 'continuous review inventory model', 'lead time demand', 'lead time reduction', 'lost sale', 'minimax distribution free procedure', 'periodic review inventory model', 'probability distribution', 'protection interval', 'service level constraint', 'setup cost reduction', 'stochastic inventory model']
+['minimax distribution free procedure', 'periodic review inventory model', 'setup cost reduction', 'lead time reduction', 'lead time demand', 'probability distribution', 'continuous review', 'review period', 'service level']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+874.txt
+['academic', 'computer science', 'professional culture', 'two-body opportunity']
+['geographical relocation', 'computer science', 'academic job', 'deep level', 'suitable position', 'professional culture', 'level', 'curious', 'difficult', 'classic', 'choice']
+0.18181818181818182 0.5 0.26666666666666666
+
+
+88.txt
+['computer-based system', 'earthwork activity', 'earthwork planning process', 'knowledge base', 'linear construction project', 'planning rule', 'road construction project']
+['earthwork activity earthworks planning', 'linear construction project', 'road construction project', 'planning rule', 'real project', 'knowledge base', 'short time', 'project planner', 'complex operation']
+0.4444444444444444 0.5714285714285714 0.5
+
+
+881.txt
+['computing under-representation', 'ethical argument', 'social institution', 'social practice', 'unfair discrimination', 'woman']
+['ethical argument', 'drive woman', 'ethical question', 'social institution', 'social practice', 'injustice occurs', 'moral matter', 'unfair discrimination', 'discrimination']
+0.4444444444444444 0.6666666666666666 0.5333333333333333
+
+
+888.txt
+['automatic control', 'complete monotonicity condition', 'dissipation inequality', 'fading memory', 'linear system', 'mechanic', 'necessary condition', 'nonequilibrium thermodynamics', 'nonlinear time-invariant input-output dynamical system', 'passive dynamical system', 'passivity condition', 'storage functionals', 'thermodynamic potential', 'unique quadratic lyapunov function', 'viscoelastic material']
+['unique quadratic lyapunov function', 'unique lyapunov function', 'complete monotonicity condition', 'linear relaxation system', 'unique reconstruction', 'system theory', 'viscoelastic material', 'automatic control', 'nonequilibrium thermodynamics', 'compact family', 'fading memory', 'storage functionals', 'dissipation inequality', 'passivity condition']
+0.6428571428571429 0.6 0.6206896551724138
+
+
+894.txt
+['30 mm', 'certified radiologist', 'computed radiographic system', 'digital chest radiography', 'improved lung nodule detection', 'medical diagnostic imaging', 'observer performance', 'perceptible interval change', 'peripheral lung nodule', 'radiology resident', 'subtle case', 'temporal subtraction technique', 'university of chicago']
+['twenty solitary lung nodule', 'perceptible interval change', 'digital chest radiography', 'digital chest radiograph', 'observer performance study', 'peripheral lung nodule', 'observer performance', 'lung cancer', 'benign nodule', 'radiology resident', 'certified radiologist', 'characteristic analysis', 'radiographic system']
+0.46153846153846156 0.46153846153846156 0.46153846153846156
+
+
+895.txt
+['computational geometry', 'dynamic algorithm', 'extended object', 'graphical search', 'minimum mutual overlay', 'r-trees', 'rectangular object', 'spatial indexing']
+['minimum mutual overlay', 'initial global construction', 'conventional dynamic algorithm', 'global strategy', 'experimental modeling', 'spatial indexing', 'extended object', 'rectangular object', 'subsequent operation']
+0.4444444444444444 0.5 0.47058823529411764
+
+
+898.txt
+['advertising expense influence', 'average capital', 'conditional time', 'insurance company functioning characteristic', 'ruin probability', 'survival probability']
+['average capital', 'survival probability', 'conditional time', 'basic characteristic']
+0.75 0.5 0.6
+
+
+9.txt
+['absorptive capacity', 'bricks-and-mortar', 'business performance', 'clicks-and-mortar', 'combinative capability', 'competitive capability', 'cost', 'delivery', 'dot-com', 'e-services', 'flexibility', 'human capital', 'intellectual capital', 'internet', 'investment', 'knowledge-based competency', 'knowledge-based economy', 'operations-based option', 'service operation strategy', 'service quality', 'strategic imperative', 'structural capital']
+['service operation strategy', 'service quality', 'current literature', 'business performance', 'absorptive capacity', 'structural capital', 'human capital', 'strategic imperative', 'intellectual capital', 'combinative capability', 'operating model', 'capability', 'pure', 'investment']
+0.7142857142857143 0.45454545454545453 0.5555555555555556
+
+
+924.txt
+['boundary condition', 'dynamic response', 'ground vibration testing', 'inflated structure', 'kapton torus', 'macro-fiber composite actuator', 'modal parameter', 'polyvinylidene fluoride patch', 'pvdf sensor', 'satellite application', 'smart material', 'space device', 'thin-film torus']
+['ground vibration testing', 'attractive testing arrangement', 'dynamic testing', 'satellite application', 'boundary condition', 'suspension mode', 'space device', 'modal parameter', 'damped nature', 'polyvinylidene fluoride', 'dynamic response', 'experimental investigation', 'composite actuator', 'pvdf sensor']
+0.5 0.5384615384615384 0.5185185185185186
+
+
+943.txt
+['cyclic geometric phase', 'josephson junction', 'nmr system', 'nonadiabatic geometric gate', 'nonadiabatic geometric phase shift', 'nonadiabatic phase shift', 'operation time', 'quantum computation', 'universal quantum gate']
+['nonadiabatic geometric phase shift', 'nonadiabatic phase shift', 'cyclic geometric phase', 'nonadiabatic geometric gate', 'quantum computation', 'intrinsic limitation', 'feasible scheme']
+0.7142857142857143 0.5555555555555556 0.6250000000000001
+
+
+950.txt
+['bounded quantum system', 'classical chaos', 'classical lyapunov exponent', 'operator matrix element', 'periodic function', 'quantum complexity', 'quantum control', 'quantum sensitive dependence', 'time asymptotics', 'time-dependent interaction', 'time-independent potential', 'wave function']
+['quantum sensitive dependence wave function', 'quantum sensitive dependence', 'operator matrix element', 'classical lyapunov exponent', 'bounded quantum system', 'periodic function', 'quantum system', 'quantum control', 'quantum mechanic', 'classical chaos']
+0.7 0.5833333333333334 0.6363636363636365
+
+
+953.txt
+['innovation', 'law firm']
+['viva la difference', 'law firm innovation', 'law firm', 'level']
+0.25 0.5 0.3333333333333333
+
+
+956.txt
+['computer presentation', 'law firm', 'powerpoint', 'visual technology']
+['legal communication setting', 'visual learning apply', 'learning experience', 'visual technology', 'visual impact', 'visual input', 'computer presentation', 'client meeting', 'settlement conference', 'hardware component']
+0.2 0.5 0.28571428571428575
+
+
+962.txt
+['adaptive behavior', 'embedded agent', 'liouville machine', 'optimal control', 'physical particle', 'scattering behavior', 'transport equation']
+['liouville machine transport theory', 'physical boundary condition', 'liouville machine', 'transport equation', 'physical particle', 'control theory', 'optimal control', 'laplace transform', 'reward scheme', 'linear system', 'discretization yield', 'conservation theorem', 'predefined goal', 'complex maze']
+0.2857142857142857 0.5714285714285714 0.38095238095238093
+
+
+964.txt
+['agent-based model', 'behavioral ecology', 'experimental psychology', 'focal forager', 'genetic algorithm', 'group foraging', 'group situation', 'individual suboptimality', 'interference function', 'isolated individual', 'matching law', 'multiple agent', 'situated action', 'situated perception', 'spatially explicit environment', 'suboptimal behavior']
+['isolated individual', 'intake rate', 'individual suboptimality', 'situated perception', 'explicit environment', 'multiple agent', 'genetic algorithm', 'focal forager', 'behavioral ecology', 'experimental psychology', 'current concern', 'interference function', 'concern', 'proportion']
+0.6428571428571429 0.5625 0.6000000000000001
+
+
+973.txt
+['air pollution modelling', 'approximate matrix factorization', 'aqueous phase chemistry', 'chemical reaction', 'chemical specie', 'cloud drop', 'gas phase chemistry', 'linear algebra', 'multiphase chemical system', 'multiphase chemistry', 'operator splitting', 'size-resolved cloud model', 'sparse jacobians', 'time-integration scheme']
+['special linear system solver', 'linear algebra level', 'special block structure', 'approximate matrix factorization', 'multiphase chemistry system', 'direct sparse technique', 'multiphase chemical system', 'aqueous phase chemistry', 'gas phase chemistry', 'chemical reaction', 'sparse jacobians', 'sparse form', 'chemical specie', 'gas phase', 'fast dissociation', 'cloud model', 'bdf method', 'code lsode', 'backward reaction', 'numerical approach', 'corresponding jacobian']
+0.3333333333333333 0.5 0.4
+
+
+980.txt
+['backward euler method', 'data error estimate', 'linearization', 'nonlinear parabolic differential equation', 'nonsmooth-data error estimate', 'runge-kutta method convergence', 'time discretizations', 'uniformly sectorial operator']
+['nonlinear parabolic differential equation', 'uniformly sectorial operator', 'backward euler method', 'time discretizations', 'exact solution', 'error estimate']
+0.6666666666666666 0.5 0.5714285714285715
+
+
+998.txt
+['cognitive system', 'continuity', 'discreteness', 'neural system', 'relevance']
+['complete characterization', 'neural system', 'cognitive system', 'roman poznanski', 'reply fail', 'idea', 'continuity', 'evident']
+0.375 0.6 0.4615384615384615
+
+
+0.4743196163363696 1.0 0.08333333333333333
+0.5319332315727002 1.0 0.4090909090909091

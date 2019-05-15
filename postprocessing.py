@@ -33,8 +33,23 @@ def postprocess(candidate_keyword_list_final):
 		word_score[i][1]=matrix[i,i]
 		word_score[i][2]=word_score[i][0]/word_score[i][1]
 	
+	'''removing candidate keywords that are a part of other candidate keywords'''
+	temp_list=[]
+	for i in range(len(candidate_keyword_list_indexwise)-1):
+		for j in range(i+1,len(candidate_keyword_list_indexwise)):
+			if set(candidate_keyword_list_indexwise[i]).issubset(set(candidate_keyword_list_indexwise[j])):
+				temp_list.append(i)
+	
+	temp_list=set(temp_list)
+	for i in temp_list:
+		candidate_keyword_list_indexwise[i]='-'
+	del(temp_list)
+	
 	final_keywords_score_index=[]
 	for i in range(len(candidate_keyword_list_indexwise)):
+		if candidate_keyword_list_indexwise[i]=='-':
+			final_keywords_score_index.append(0)
+			continue
 		temp_sum=0
 		for each_index in candidate_keyword_list_indexwise[i]:
 			temp_sum+=word_score[each_index][2]
@@ -42,7 +57,10 @@ def postprocess(candidate_keyword_list_final):
 		
 	word_score_frame=pd.DataFrame({'candidate_keyword':candidate_keyword_list_final,'score':final_keywords_score_index})
 	word_score_frame.drop_duplicates('candidate_keyword',inplace=True)
-	threshold_value=word_score_frame['score'].mean()
-	keywords=word_score_frame.loc[word_score_frame['score']>threshold_value].sort_values('score',ascending=False)
-	print(keywords)
+	word_score_frame.sort_values('score',ascending=False,inplace=True)
+	#threshold=word_score_frame['score'].mean()
+	print(word_score_frame)
+	threshold=0.4
+	threshold_value=word_score_frame['candidate_keyword'].count()*threshold
+	keywords=word_score_frame.head(int(threshold_value))
 	return keywords['candidate_keyword'].values.tolist()
