@@ -1,2 +1,0 @@
-Deep learning; Random Forest algorithm; HTM
-algorithm; mean absolute percentage error; duty cycle 
